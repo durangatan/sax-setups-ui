@@ -7,19 +7,21 @@
       v-bind:name="player.name"
       v-bind:setups="player.setups"
     />
+    <Footer/>
   </div>
 </template>
 
 <script>
 import PlayerCard from "./components/PlayerCard.vue";
 import SetupList from "./components/SetupList.vue";
+import Footer from "./components/Footer.vue";
 import data from "../data.json";
-console.log(SetupList);
 export default {
   name: "app",
   components: {
     PlayerCard,
-    SetupList
+    SetupList,
+    Footer
   },
   data: function() {
     return data;
