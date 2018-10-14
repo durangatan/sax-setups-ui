@@ -25,7 +25,7 @@
 
 <script>
 export default {
-  name: 'SetupList',
+  name: "SetupList",
   props: { setup: Object }
 };
 </script>

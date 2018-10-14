@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
     <h1>🎷Sax Setups🎷</h1>
     <PlayerCard 
       v-for="player in players" 
@@ -12,12 +11,12 @@
 </template>
 
 <script>
-import PlayerCard from './components/PlayerCard.vue';
-import SetupList from './components/SetupList.vue';
-import data from '../data.json';
+import PlayerCard from "./components/PlayerCard.vue";
+import SetupList from "./components/SetupList.vue";
+import data from "../data.json";
 console.log(SetupList);
 export default {
-  name: 'app',
+  name: "app",
   components: {
     PlayerCard,
     SetupList
@@ -30,7 +29,7 @@ export default {
 
 <style lang="scss">
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;

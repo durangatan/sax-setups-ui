@@ -6,9 +6,9 @@
 </template>
 
 <script>
-import SetupList from './SetupList.vue';
+import SetupList from "./SetupList.vue";
 export default {
-  name: 'PlayerCard',
+  name: "PlayerCard",
   props: {
     name: String,
     setups: Array
