@@ -19,3 +19,8 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw*
+aws-cicd-with-github.tf
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/plugins/darwin_amd64/terraform-provider-aws_v1.40.0_x4
+.terraform/plugins/darwin_amd64/lock.json
