@@ -11,4 +11,4 @@ phases:
      - npm build
  post_build:
    commands:
-     - aws s3 sync --delete ./dist "s3://www.saxsetups.com"
+     - ls
