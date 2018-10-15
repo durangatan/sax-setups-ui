@@ -5,7 +5,6 @@
 </template>
 
 <script>
-import SetupList from "./SetupList.vue";
 export default {
   name: "Footer"
 };

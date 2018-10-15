@@ -1,30 +1,32 @@
 <template>
   <div id="app">
-    <h1>🎷Sax Setups🎷</h1>
-    <PlayerCard 
-      v-for="player in players" 
-      v-bind:key="player.name"
-      v-bind:name="player.name"
-      v-bind:setups="player.setups"
-    />
+    <Header/>
+    <PlayerCards v-bind:players="players" />
     <Footer/>
   </div>
 </template>
 
 <script>
-import PlayerCard from "./components/PlayerCard.vue";
-import SetupList from "./components/SetupList.vue";
+import { PlayerCards, PlayerCard } from "./components/player";
+import Setup from "./components/setup/Setup.vue";
+import Voice from "./components/setup/Voice.vue";
 import Footer from "./components/Footer.vue";
-import data from "../data.json";
+import Header from "./components/Header.vue";
+import json from "../data.json";
 export default {
   name: "app",
   components: {
+    PlayerCards,
     PlayerCard,
-    SetupList,
+    Setup,
+    Voice,
+    Header,
     Footer
   },
   data: function() {
-    return data;
+    return {
+      players: json.players
+    };
   }
 };
 </script>

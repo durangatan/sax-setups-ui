@@ -1,9 +1,6 @@
 <template>
     <dl class="Setup">
-        <div class="attribute">
-            <dt v-if="setup.voice">Voice</dt>
-            <dd v-if="setup.voice">{{setup.voice}}</dd>
-        </div>
+        <Voice v-if="setup.voice" v-bind:voice="setup.voice"/>
         <div class="attribute">
             <dt v-if="setup.saxophone">Saxophone</dt>
             <dd v-if="setup.saxophone">{{setup.saxophone}}</dd>
@@ -24,9 +21,11 @@
 </template>
 
 <script>
+import Voice from "./Voice.vue";
 export default {
-  name: "SetupList",
-  props: { setup: Object }
+  name: "Setup",
+  props: { setup: Object },
+  components: { Voice }
 };
 </script>
 
