@@ -1280,22 +1280,22 @@
 		{
 			"setups": [
 				{
-					"reed": "Plasticover Alto 4, tenor 3.5, sop. 3.5"
+					"voice": "Soprano",
+					"misc": "Conn Curved (vintage -made in 1914) or Yamaha YSS-62 Silverplated Straight",
+					"mouthpiece": "Couf Hard Rubber #8",
+					"reed": "Rico Plasticover 3"
 				},
 				{
-					"misc": "Conn Curved Soprano Saxophone (vintage -made in 1914) Couf Hard Rubber #8 Rico Plasticover #3"
+					"voice": "Alto",
+					"saxophone": "Yamaha YAS-62 Silverplated",
+					"mouthpiece": "Beechler Metal #7",
+					"reed": "Rico Plasticover 4"
 				},
 				{
-					"misc": "Yamaha YSS-62 Silverplated Straight Soprano Couf Hard Rubber #8 Rico Plasticover #3"
-				},
-				{
-					"misc": "Yamaha YAS-62 Silverplated Alto Saxophone Beechler Metal #7 Rico Plasticover #4"
-				},
-				{
-					"misc": "Selmer Mark VI (1963) Tenor Saxophone Berg-Larsen Hard Rubber #90/2 Rico Plasticover #3 1/2"
-				},
-				{
-					"misc": "Yamaha YTS-62 Silverplated Tenor Saxophone Berg-Larsen Hard Rubber #90/2 Rico Plasticover #3 1/2"
+					"voice": "Tenor",
+					"saxophone": "Selmer Mark VI (1963) or Silver Plated Yamaha YTS-62 ",
+					"mouthpiece": "Berg-Larsen Hard Rubber #90/2",
+					"misc": " Rico Plasticover 3.5"
 				}
 			],
 			"firstName": "Dave",
@@ -1304,7 +1304,10 @@
 		{
 			"setups": [
 				{
-					"misc": "Selmer Super Action Soprano Otto Link #12 Marca 1 1/2"
+					"voice": "Soprano",
+					"saxophone": "Selmer Super Action ",
+					"mouthpiece": "Otto Link #12",
+					"reed": " Marca 1 1/2"
 				}
 			],
 			"firstName": "Steve",
@@ -1313,8 +1316,9 @@
 		{
 			"setups": [
 				{
-					"mouthpiece": "Lelandais hard rubberStreamline",
-					"saxophone": "Dolnet"
+					"mouthpiece": "Hard Rubber Lelandais Streamline",
+					"saxophone": "Dolnet",
+					"voice": "Tenor"
 				}
 			],
 			"firstName": "Guy",
@@ -1338,20 +1342,12 @@
 			"setups": [
 				{
 					"mouthpiece": "Metal Berg Larsen",
-					"saxophone": "King Super 20"
+					"saxophone": "King Super 20",
+					"voice": "Tenor"
 				}
 			],
 			"firstName": "Harold",
 			"lastName": "Land"
-		},
-		{
-			"setups": [
-				{
-					"flute": "14K Gold Muramatsu"
-				}
-			],
-			"firstName": "Hubert",
-			"lastName": "Laws"
 		},
 		{
 			"setups": [
