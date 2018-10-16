@@ -1,2575 +1,2591 @@
 {
-	"players": [
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Super Tone Master 10*",
-					"tipOpening": "3,43 mm - 135",
-					"reed": "Medium Hard",
-					"saxophone": "Selmer Mark VI"
-				}
-			],
-			"firstName": "Eddie \"Lockjaw\"",
-			"lastName": "Davis"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Hard Rubber",
-					"saxophone": "Selmer Super Action 80"
-				}
-			],
-			"firstName": "George",
-			"lastName": "Adams"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "King Super 20",
-					"mouthpiece": "Gregory 4 or 5 or New York Meyer 5",
-					"voice": "Alto",
-					"reed": " Rico #2 and La Voz Medium"
-				}
-			],
-			"firstName": "Cannonball",
-			"lastName": "Adderly"
-		},
-		{
-			"setups": [
-				{
-					"voice": "Soprano",
-					"mouthpiece": "Dukoff Silverite D7"
-				}
-			],
-			"firstName": "Gerald",
-			"lastName": "Albright"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Reso Chamber (Joe Allard Model)",
-					"tipOpening": "1, 80 mm - 0.71",
-					"reed": "Rico"
-				}
-			],
-			"firstName": "Joe",
-			"lastName": "Allard"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Brilhart Ebolin 4*",
-					"reed": "Rico 3",
-					"saxophone": "Conn-Selmer 10M",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Gene",
-			"lastName": "Ammons"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "Selmer Super Action 80 Series II Black Lacquer",
-					"voice": "Alto"
-				}
-			],
-			"firstName": "Wess",
-			"lastName": "Anderson"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Four Star Metal 2.18 m - 0.86 \"",
-					"saxophone": "Selmer Balanced Action (Long Bell)",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Harold",
-			"lastName": "Ashby"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Master Link GA facing 2.03 mm - 0,80 \"",
-					"saxophone": "Selmer Super"
-				}
-			],
-			"firstName": "Georgie",
-			"lastName": "Auld"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Super Tone Master 9*",
-					"reed": "La Voz Medium",
-					"saxophone": "Selmer Super Action 80 IISelmer Super Action 80 III"
-				}
-			],
-			"firstName": "Gerard",
-			"lastName": "Badini"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Four Star 5*",
-					"tipOpening": "1,90 mm- 0,75 \"",
-					"saxophone": "Conn 10M"
-				}
-			],
-			"firstName": "Charlie",
-			"lastName": "Barnet"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "Selmer Super Action 80 Series II",
-					"mouthpiece": "Yanagisawa hard rubber 7",
-					"reed": "Hemke 3.5",
-					"voice": "Alto"
-				},
-				{
-					"saxophone": "Selmer Super Action 80 Series II",
-					"mouthpiece": "Yanagisawa hard rubber 7",
-					"reed": "Hemke 3.5",
-					"voice": "Soprano"
-				}
-			],
-			"firstName": "Gary",
-			"lastName": "Bartz"
-		},
-		{
-			"setups": [
-				{
-					"voice": "Alto",
-					"saxophone": "Yamaha Custom 875"
-				}
-			],
-			"firstName": "Jay",
-			"lastName": "Beckenstein"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Brilhart Hard Rubber Ebolin 2*",
-					"reed": "Soft",
-					"saxophone": "Martin Committee I or II"
-				}
-			],
-			"firstName": "Tex",
-			"lastName": "Beneke"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Hard Rubber 7 or handmade metal François Louis",
-					"reed": "La Voz Medium or Rico Jazz Select",
-					"saxophone": "Selmer Balnced Action",
-					"voice": "Tenor",
-					"ligature": "François Louis"
-				},
-				{
-					"mouthpiece": "Metal Selmer G",
-					"voice": "Soprano"
-				}
-			],
-			"firstName": "Bob",
-			"lastName": "Berg"
-		},
-		{
-			"setups": [
-				{
-					"voice": "Tenor",
-					"reed": "La Voz Medium"
-				}
-			],
-			"firstName": "Bill",
-			"lastName": "Bergman"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "Super Balanced Action",
-					"mouthpiece": "Otto Link metal or hard rubber 6",
-					"voice": "Tenor",
-					"reed": "Rico 3.5"
-				},
-				{
-					"voice": "Soprano",
-					"reed": "Rico 3 or 3.5"
-				}
-			],
-			"firstName": "Jerry",
-			"lastName": "Bergonzi"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Four Star 5*",
-					"reed": "CG Conn Special 3",
-					"saxophone": "Conn Gold Plated New Wonder Transitional"
-				}
-			],
-			"firstName": "Chu",
-			"lastName": "Berry"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Super Tone Master Florida USA 9*",
-					"tipOpening": "3,22 mm - 127 \"",
-					"saxophone": "Jupiter XO"
-				}
-			],
-			"firstName": "Sylvain",
-			"lastName": "Beuf"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Reso Chamber refaced to 7*",
-					"reed": "Rico",
-					"saxophone": "Selmer Super Balanced Action"
-				}
-			],
-			"firstName": "Seamus",
-			"lastName": "Blake"
-		},
-		{
-			"setups": [
-				{
-					"voice": "Tenor",
-					"reed": "Hemke 4.5"
-				},
-				{
-					"voice": "Soprano",
-					"reed": "Hemke 4"
-				}
-			],
-			"firstName": "Ron",
-			"lastName": "Blake"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Metal Berg Larsen 95/1",
-					"reed": "La Voz",
-					"voice": "Alto"
-				}
-			],
-			"firstName": "Arthur",
-			"lastName": "Blythe"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "Selmer Super Balanced Action",
-					"mouthpiece": "Lawton metal",
-					"reed": "Vandoren 4",
-					"voice": "Tenor"
-				},
-				{
-					"mouthpiece": "Meyer 7",
-					"reed": "Vandoren 3",
-					"voice": "Soprano"
-				}
-			],
-			"firstName": "Don",
-			"lastName": "Braden"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "Selmer Super Action 80 Series II Black Lacquer",
-					"voice": "Soprano",
-					"mouthpiece": "Lawton 7*",
-					"ligature": "Rovner 7",
-					"reed": "Lavoz Medium Hard or Hemke 3"
-				},
-				{
-					"saxophone": "Selmer Mark VI #77xxx",
-					"voice": "Alto",
-					"mouthpiece": "Lawton 7*B",
-					"ligature": "Rovner 7",
-					"reed": "Lavoz Medium Hard or Hemke 3"
-				}
-			],
-			"firstName": "Frank",
-			"lastName": "Branch"
-		},
-		{
-			"setups": [
-				{
-					"voice": "Tenor",
-					"saxophone": "Selmer Mark VI #86,xxx",
-					"mouthpiece": "Guardala Brecker Model or refaced metal Four Star Otto Link",
-					"reed": "Guardala #2"
-				},
-				{
-					"mouthpiece": "Guardala 8",
-					"voice": "Soprano",
-					"reed": "LaVoz"
-				}
-			],
-			"firstName": "Michael",
-			"lastName": "Brecker"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Runyon Bionix 8*"
-				}
-			],
-			"firstName": "Nick",
-			"lastName": "Brignola"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Berg Larsen Slant Signature Charlie Ventura model. Long table, stainless steel 110 / 2",
-					"reed": "Rico Plasticover 5",
-					"saxophone": "Selmer Mark VI",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Sam",
-			"lastName": "Butera"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Tone master refaced by Otto Link to 8* with pre-1949 Otto Link measurements.",
-					"tipOpening": "2,67 mm - 105 \"",
-					"saxophone": "Selmer"
-				}
-			],
-			"firstName": "Don",
-			"lastName": "Byas"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Berg Larsen hard rubber 90 / 1"
-				}
-			],
-			"firstName": "Ace",
-			"lastName": "Cannon"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Selmer Soloist F",
-					"reed": "Rico Jazz Select 3S",
-					"saxophone": "Yanagisawa Sterling Silver",
-					"voice": "Soprano"
-				},
-				{
-					"mouthpiece": "Phil Barone New York 8M",
-					"reed": "Rico Jazz Select 3S",
-					"saxophone": "Keilwerth SX90R",
-					"voice": "Alto"
-				},
-				{
-					"mouthpiece": "Phil Barone New York 8M or Florida Otto Link 8",
-					"reed": "Rico Jazz Select 3S",
-					"saxophone": "Selmer Mark VI Tenor #114xxx or Keilwerth SX90R",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Steve",
-			"lastName": "Carmichael"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Lawton metal 7BB",
-					"reed": "Rico Plasticover",
-					"saxophone": "Yamaha Custom",
-					"voice": "Tenor"
-				},
-				{
-					"mouthpiece": "Lawton metal 7BB",
-					"reed": "Rico Plasticover",
-					"saxophone": "Yamaha Custom",
-					"voice": "Alto"
-				},
-				{
-					"mouthpiece": "Lawton metal 7BB",
-					"reed": "Rico Plasticover",
-					"saxophone": "Yamaha Custom",
-					"voice": "Soprano"
-				},
-				{
-					"mouthpiece": "Lawton metal 7BB",
-					"reed": "Rico Plasticover",
-					"saxophone": "Yamaha Custom",
-					"voice": "Baritone"
-				}
-			],
-			"firstName": "James",
-			"lastName": "Carter"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Arnold Brilhart Ebolin",
-					"saxophone": "1964 Selmer Mark VI",
-					"voice": "Alto",
-					"reed": "Rico"
-				}
-			],
-			"firstName": "Benny",
-			"lastName": "Carter"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "Dolnet"
-				}
-			],
-			"firstName": "Eddie",
-			"lastName": "Chamblee"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link New Vintage Tone Edge 8* refaced by Nicolas Trefeil",
-					"reed": "La Voz Medium Hard",
-					"saxophone": "Selmer Balanced Action",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Olivier",
-			"lastName": "Chaussade"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Tone Edge Early Babbitt 7 very long facing curve / low baffle",
-					"tipOpening": "2, 56 mm - 101 \"",
-					"reed": "Rico 3 1/2",
-					"saxophone": "Selmer Super Balanced Action (long bell)",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Chris",
-			"lastName": "Cheek"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Metal Berg Larsen 130 / 0",
-					"reed": "Rico Plasticover 2 or 2.5",
-					"saxophone": "Selmer Mark VI",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Pete",
-			"lastName": "Christlieb"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Metal Berg Larsen",
-					"saxophone": "Dolnet",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Jean Claude",
-			"lastName": "Forenbach"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Rovner metal D9 - D11",
-					"reed": "Rico Plasticover",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Clarence",
-			"lastName": "Clemons"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link metal",
-					"reed": "Rico Royal 3",
-					"saxophone": "Selmer",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Arnett",
-			"lastName": "Cobb"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link metal 4",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Al",
-			"lastName": "Cohn"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link hard rubber 8",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Mark",
-			"lastName": "Colby"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "Selmer Mark VII",
-					"voice": "Alto"
-				}
-			],
-			"firstName": "Steve",
-			"lastName": "Coleman"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "Yamaha",
-					"mouthpiece": "Vandoren A25",
-					"voice": "Soprano",
-					"reed": "Rico Royal 3.5"
-				},
-				{
-					"mouthpiece": "Meyer 5 or Bilger Morgan 6",
-					"saxophone": "Selmer Mark VI",
-					"voice": "Alto",
-					"reed": "Rico Royal 3.5"
-				},
-				{
-					"mouthpiece": "Otto Link Super Tone Master 7*",
-					"saxophone": "Selmer Mark VI",
-					"voice": "Tenor",
-					"reed": "Rico Royal 3.5 or 4"
-				}
-			],
-			"firstName": "George",
-			"lastName": "Coleman"
-		},
-		{
-			"setups": [
-				{
-					"reed": "Rico Royal 2.5",
-					"voice": "Soprano"
-				},
-				{
-					"reed": "Rico Royal 2.5",
-					"voice": "Alto"
-				},
-				{
-					"reed": "Rico Royal 2.5",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Buddy",
-			"lastName": "Collette"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Improved Tone Master 5* (refaced) or Metal Otto Link 6 star",
-					"reed": "Rico 4 or Chiron Vibrator 4",
-					"saxophone": "Selmer Super Balanced Action (long bell)",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "John",
-			"lastName": "Coltrane"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Berg Larsen metal 115 / 0",
-					"tipOpening": "2,90 mm - 115 \"",
-					"saxophone": "Dolnet"
-				}
-			],
-			"firstName": "Alix",
-			"lastName": "Combelle"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link worked on by Glenn Johnston with small baffle and opened tip",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Bob",
-			"lastName": "Cooper"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Tone Master Hawkins Special",
-					"tipOpening": "1,98 mm - 0,78 \"",
-					"saxophone": "Selmer",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Corky",
-			"lastName": "Corcoran"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "Selmer Super Action 80 Series II",
-					"voice": "Alto",
-					"Mouthpiece": "Barrett Stock",
-					"Reed": "La Voz Medium"
-				}
-			],
-			"firstName": "Hank",
-			"lastName": "Crawford"
-		},
+  "players": [
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Super Tone Master 10*",
+          "tipOpening": "3,43 mm - 135",
+          "reed": "Medium Hard",
+          "saxophone": "Selmer Mark VI"
+        }
+      ],
+      "firstName": "Eddie \"Lockjaw\"",
+      "lastName": "Davis"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Hard Rubber",
+          "saxophone": "Selmer Super Action 80"
+        }
+      ],
+      "firstName": "George",
+      "lastName": "Adams"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "King Super 20",
+          "mouthpiece": "Gregory 4 or 5 or New York Meyer 5",
+          "voice": "Alto",
+          "reed": " Rico #2 and La Voz Medium"
+        }
+      ],
+      "firstName": "Cannonball",
+      "lastName": "Adderly"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "mouthpiece": "Dukoff Silverite D7"
+        }
+      ],
+      "firstName": "Gerald",
+      "lastName": "Albright"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Reso Chamber (Joe Allard Model)",
+          "tipOpening": "1, 80 mm - 0.71",
+          "reed": "Rico"
+        }
+      ],
+      "firstName": "Joe",
+      "lastName": "Allard"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Brilhart Ebolin 4*",
+          "reed": "Rico 3",
+          "saxophone": "Conn-Selmer 10M",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Gene",
+      "lastName": "Ammons"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Selmer Super Action 80 Series II Black Lacquer",
+          "voice": "Alto"
+        }
+      ],
+      "firstName": "Wess",
+      "lastName": "Anderson"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Four Star Metal 2.18 m - 0.86 \"",
+          "saxophone": "Selmer Balanced Action (Long Bell)",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Harold",
+      "lastName": "Ashby"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Master Link GA facing 2.03 mm - 0,80 \"",
+          "saxophone": "Selmer Super"
+        }
+      ],
+      "firstName": "Georgie",
+      "lastName": "Auld"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Super Tone Master 9*",
+          "reed": "La Voz Medium",
+          "saxophone": "Selmer Super Action 80 IISelmer Super Action 80 III"
+        }
+      ],
+      "firstName": "Gerard",
+      "lastName": "Badini"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Four Star 5*",
+          "tipOpening": "1,90 mm- 0,75 \"",
+          "saxophone": "Conn 10M"
+        }
+      ],
+      "firstName": "Charlie",
+      "lastName": "Barnet"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Selmer Super Action 80 Series II",
+          "mouthpiece": "Yanagisawa hard rubber 7",
+          "reed": "Hemke 3.5",
+          "voice": "Alto"
+        },
+        {
+          "saxophone": "Selmer Super Action 80 Series II",
+          "mouthpiece": "Yanagisawa hard rubber 7",
+          "reed": "Hemke 3.5",
+          "voice": "Soprano"
+        }
+      ],
+      "firstName": "Gary",
+      "lastName": "Bartz"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "saxophone": "Yamaha Custom 875"
+        }
+      ],
+      "firstName": "Jay",
+      "lastName": "Beckenstein"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Brilhart Hard Rubber Ebolin 2*",
+          "reed": "Soft",
+          "saxophone": "Martin Committee I or II"
+        }
+      ],
+      "firstName": "Tex",
+      "lastName": "Beneke"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Hard Rubber 7 or handmade metal François Louis",
+          "reed": "La Voz Medium or Rico Jazz Select",
+          "saxophone": "Selmer Balnced Action",
+          "voice": "Tenor",
+          "ligature": "François Louis"
+        },
+        {
+          "mouthpiece": "Metal Selmer G",
+          "voice": "Soprano"
+        }
+      ],
+      "firstName": "Bob",
+      "lastName": "Berg"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "reed": "La Voz Medium"
+        }
+      ],
+      "firstName": "Bill",
+      "lastName": "Bergman"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Super Balanced Action",
+          "mouthpiece": "Otto Link metal or hard rubber 6",
+          "voice": "Tenor",
+          "reed": "Rico 3.5"
+        },
+        {
+          "voice": "Soprano",
+          "reed": "Rico 3 or 3.5"
+        }
+      ],
+      "firstName": "Jerry",
+      "lastName": "Bergonzi"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Four Star 5*",
+          "reed": "CG Conn Special 3",
+          "saxophone": "Conn Gold Plated New Wonder Transitional"
+        }
+      ],
+      "firstName": "Chu",
+      "lastName": "Berry"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Super Tone Master Florida USA 9*",
+          "tipOpening": "3,22 mm - 127 \"",
+          "saxophone": "Jupiter XO"
+        }
+      ],
+      "firstName": "Sylvain",
+      "lastName": "Beuf"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Reso Chamber refaced to 7*",
+          "reed": "Rico",
+          "saxophone": "Selmer Super Balanced Action"
+        }
+      ],
+      "firstName": "Seamus",
+      "lastName": "Blake"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "reed": "Hemke 4.5"
+        },
+        {
+          "voice": "Soprano",
+          "reed": "Hemke 4"
+        }
+      ],
+      "firstName": "Ron",
+      "lastName": "Blake"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Metal Berg Larsen 95/1",
+          "reed": "La Voz",
+          "voice": "Alto"
+        }
+      ],
+      "firstName": "Arthur",
+      "lastName": "Blythe"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Selmer Super Balanced Action",
+          "mouthpiece": "Lawton metal",
+          "reed": "Vandoren 4",
+          "voice": "Tenor"
+        },
+        {
+          "mouthpiece": "Meyer 7",
+          "reed": "Vandoren 3",
+          "voice": "Soprano"
+        }
+      ],
+      "firstName": "Don",
+      "lastName": "Braden"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Selmer Super Action 80 Series II Black Lacquer",
+          "voice": "Soprano",
+          "mouthpiece": "Lawton 7*",
+          "ligature": "Rovner 7",
+          "reed": "Lavoz Medium Hard or Hemke 3"
+        },
+        {
+          "saxophone": "Selmer Mark VI #77xxx",
+          "voice": "Alto",
+          "mouthpiece": "Lawton 7*B",
+          "ligature": "Rovner 7",
+          "reed": "Lavoz Medium Hard or Hemke 3"
+        }
+      ],
+      "firstName": "Frank",
+      "lastName": "Branch"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "saxophone": "Selmer Mark VI #86,xxx",
+          "mouthpiece": "Guardala Brecker Model or refaced metal Four Star Otto Link",
+          "reed": "Guardala #2"
+        },
+        {
+          "mouthpiece": "Guardala 8",
+          "voice": "Soprano",
+          "reed": "LaVoz"
+        }
+      ],
+      "firstName": "Michael",
+      "lastName": "Brecker"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Runyon Bionix 8*"
+        }
+      ],
+      "firstName": "Nick",
+      "lastName": "Brignola"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Berg Larsen Slant Signature Charlie Ventura model. Long table, stainless steel 110 / 2",
+          "reed": "Rico Plasticover 5",
+          "saxophone": "Selmer Mark VI",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Sam",
+      "lastName": "Butera"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Tone master refaced by Otto Link to 8* with pre-1949 Otto Link measurements.",
+          "tipOpening": "2,67 mm - 105 \"",
+          "saxophone": "Selmer"
+        }
+      ],
+      "firstName": "Don",
+      "lastName": "Byas"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Berg Larsen hard rubber 90 / 1"
+        }
+      ],
+      "firstName": "Ace",
+      "lastName": "Cannon"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Selmer Soloist F",
+          "reed": "Rico Jazz Select 3S",
+          "saxophone": "Yanagisawa Sterling Silver",
+          "voice": "Soprano"
+        },
+        {
+          "mouthpiece": "Phil Barone New York 8M",
+          "reed": "Rico Jazz Select 3S",
+          "saxophone": "Keilwerth SX90R",
+          "voice": "Alto"
+        },
+        {
+          "mouthpiece": "Phil Barone New York 8M or Florida Otto Link 8",
+          "reed": "Rico Jazz Select 3S",
+          "saxophone": "Selmer Mark VI Tenor #114xxx or Keilwerth SX90R",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Steve",
+      "lastName": "Carmichael"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Lawton metal 7BB",
+          "reed": "Rico Plasticover",
+          "saxophone": "Yamaha Custom",
+          "voice": "Tenor"
+        },
+        {
+          "mouthpiece": "Lawton metal 7BB",
+          "reed": "Rico Plasticover",
+          "saxophone": "Yamaha Custom",
+          "voice": "Alto"
+        },
+        {
+          "mouthpiece": "Lawton metal 7BB",
+          "reed": "Rico Plasticover",
+          "saxophone": "Yamaha Custom",
+          "voice": "Soprano"
+        },
+        {
+          "mouthpiece": "Lawton metal 7BB",
+          "reed": "Rico Plasticover",
+          "saxophone": "Yamaha Custom",
+          "voice": "Baritone"
+        }
+      ],
+      "firstName": "James",
+      "lastName": "Carter"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Arnold Brilhart Ebolin",
+          "saxophone": "1964 Selmer Mark VI",
+          "voice": "Alto",
+          "reed": "Rico"
+        }
+      ],
+      "firstName": "Benny",
+      "lastName": "Carter"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Dolnet"
+        }
+      ],
+      "firstName": "Eddie",
+      "lastName": "Chamblee"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link New Vintage Tone Edge 8* refaced by Nicolas Trefeil",
+          "reed": "La Voz Medium Hard",
+          "saxophone": "Selmer Balanced Action",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Olivier",
+      "lastName": "Chaussade"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Tone Edge Early Babbitt 7 very long facing curve / low baffle",
+          "tipOpening": "2, 56 mm - 101 \"",
+          "reed": "Rico 3 1/2",
+          "saxophone": "Selmer Super Balanced Action (long bell)",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Chris",
+      "lastName": "Cheek"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Metal Berg Larsen 130 / 0",
+          "reed": "Rico Plasticover 2 or 2.5",
+          "saxophone": "Selmer Mark VI",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Pete",
+      "lastName": "Christlieb"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Metal Berg Larsen",
+          "saxophone": "Dolnet",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Jean Claude",
+      "lastName": "Forenbach"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Rovner metal D9 - D11",
+          "reed": "Rico Plasticover",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Clarence",
+      "lastName": "Clemons"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link metal",
+          "reed": "Rico Royal 3",
+          "saxophone": "Selmer",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Arnett",
+      "lastName": "Cobb"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link metal 4",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Al",
+      "lastName": "Cohn"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link hard rubber 8",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Mark",
+      "lastName": "Colby"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Selmer Mark VII",
+          "voice": "Alto"
+        }
+      ],
+      "firstName": "Steve",
+      "lastName": "Coleman"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Yamaha",
+          "mouthpiece": "Vandoren A25",
+          "voice": "Soprano",
+          "reed": "Rico Royal 3.5"
+        },
+        {
+          "mouthpiece": "Meyer 5 or Bilger Morgan 6",
+          "saxophone": "Selmer Mark VI",
+          "voice": "Alto",
+          "reed": "Rico Royal 3.5"
+        },
+        {
+          "mouthpiece": "Otto Link Super Tone Master 7*",
+          "saxophone": "Selmer Mark VI",
+          "voice": "Tenor",
+          "reed": "Rico Royal 3.5 or 4"
+        }
+      ],
+      "firstName": "George",
+      "lastName": "Coleman"
+    },
+    {
+      "setups": [
+        {
+          "reed": "Rico Royal 2.5",
+          "voice": "Soprano"
+        },
+        {
+          "reed": "Rico Royal 2.5",
+          "voice": "Alto"
+        },
+        {
+          "reed": "Rico Royal 2.5",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Buddy",
+      "lastName": "Collette"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Improved Tone Master 5* (refaced) or Metal Otto Link 6 star",
+          "reed": "Rico 4 or Chiron Vibrator 4",
+          "saxophone": "Selmer Super Balanced Action (long bell)",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "John",
+      "lastName": "Coltrane"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Berg Larsen metal 115 / 0",
+          "tipOpening": "2,90 mm - 115 \"",
+          "saxophone": "Dolnet"
+        }
+      ],
+      "firstName": "Alix",
+      "lastName": "Combelle"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link worked on by Glenn Johnston with small baffle and opened tip",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Bob",
+      "lastName": "Cooper"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Tone Master Hawkins Special",
+          "tipOpening": "1,98 mm - 0,78 \"",
+          "saxophone": "Selmer",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Corky",
+      "lastName": "Corcoran"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Selmer Super Action 80 Series II",
+          "voice": "Alto",
+          "Mouthpiece": "Barrett Stock",
+          "Reed": "La Voz Medium"
+        }
+      ],
+      "firstName": "Hank",
+      "lastName": "Crawford"
+    },
 
-		{
-			"setups": [
-				{
-					"voice": "Baritone",
-					"reed": "Rico 3.5"
-				}
-			],
-			"firstName": "Ronnie",
-			"lastName": "Cuber"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Stainles Steel Berg Larsen",
-					"saxophone": "Selmer Mark VI"
-				}
-			],
-			"firstName": "King",
-			"lastName": "Curtis"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link 6",
-					"reed": "Rico 3",
-					"saxophone": "Yamaha",
-					"voice": "Soprano"
-				},
-				{
-					"mouthpiece": "Metal Selmer F",
-					"voice": "Alto",
-					"reed": "Rico 3",
-					"saxophone": "Selmer Balanced Action Alto Saxophone (1957)"
-				}
-			],
-			"firstName": "Paquito",
-			"lastName": "D'Rivera"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Metal Otto Link 7*",
-					"reed": "Rico",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Eddie",
-			"lastName": "Daniels"
-		},
-		{
-			"setups": [
-				{
-					"voice": "Tenor",
-					"reed": "Rico Plasticover 3.5"
-				}
-			],
-			"firstName": "Jay",
-			"lastName": "Davidson"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Four Star",
-					"reed": "Rico",
-					"saxophone": "Selmer Balanced action"
-				}
-			],
-			"firstName": "Pat",
-			"lastName": "Davis"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link refaced Nicolas Trefeil or Brilhart or Selmer Soloist",
-					"saxophone": "Selmer Mark VI or Selmer Super Balanced Action or King Super 20"
-				}
-			],
-			"firstName": "François",
-			"lastName": "de Ribeaupierre"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Gregory Hollywood 4A-18M",
-					"voice": "Alto",
-					"reed": "Rico 3 or 3.5",
-					"saxophone": "Selmer"
-				}
-			],
-			"firstName": "Paul",
-			"lastName": "Desmond"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Tone Master 5",
-					"tipOpening": "1,80 mm - 0,71 \"",
-					"saxophone": "Selmer",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Sam",
-			"lastName": "Donahue"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "Selmer Mark VI (1948)",
-					"voice": "Alto",
-					"mouthpiece": "Meyer",
-					"reed": "Rico 2"
-				}
-			],
-			"firstName": "Lou",
-			"lastName": "Donaldson"
-		},
-		{
-			"setups": [
-				{
-					"voice": "Alto",
-					"reed": "La Voz Medium"
-				}
-			],
-			"firstName": "Candy",
-			"lastName": "Dulfer"
-		},
-		{
-			"setups": [
-				{
-					"voice": "Tenor",
-					"reed": "Rico Royal 3.5"
-				}
-			],
-			"firstName": "Hans",
-			"lastName": "Dulfer"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Bobby Dukkof Hollywood BD",
-					"saxophone": "Conn New Wonder Transitionnal",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Allen",
-			"lastName": "Eager"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "LASax 80",
-					"voice": "Tenor",
-					"mouthpiece": "Strathon 7*",
-					"reed": "Rico"
-				}
-			],
-			"firstName": "Richard",
-			"lastName": "Elliott"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Master Link",
-					"saxophone": "Conn New Wonder",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Herschel",
-			"lastName": "Evans"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Guardala Studio Model",
-					"reed": " Vandoren",
-					"voice": "Tenor",
-					"saxophone": "Selmer"
-				},
-				{
-					"mouthpiece": "Dukoff 9",
-					"reed": " Vandoren",
-					"voice": "Soprano",
-					"saxophone": "Selmer"
-				}
-			],
-			"firstName": "Bill",
-			"lastName": "Evans"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Tone Edge refaced by Nicolas Trefeil",
-					"tipOpening": "3,02 mm - 119 \"",
-					"reed": "Vandoren 3.5",
-					"saxophone": "Selmer Super Balanced Action or Conn New Wonder Transitional",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Robin",
-			"lastName": "Fincker"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Super Tone Master 10* or Lawton 10*B",
-					"tipOpening": "3,43 mm - 135 \"",
-					"saxophone": "Selmer"
-				},
-				{
-					"mouthpiece": "Yanigasawa 5",
-					"voice": "Soprano"
-				}
-			],
-			"firstName": "Frank",
-			"lastName": "Foster"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Tone Master refaced by Nicolas Trefeil",
-					"saxophone": "Buescher 400 Conn",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Jean François",
-			"lastName": "Bonnel"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Reso Chamber 4 Trump New York Bud Freeman model",
-					"tipOpening": "1,92 mm - 0,76 \"",
-					"saxophone": "Conn New Wonder transitionnal and 10M"
-				}
-			],
-			"firstName": "Bud",
-			"lastName": "Freeman"
-		},
-		{
-			"setups": [
-				{
-					"reed": "Rico Royal 3",
-					"voice": "Tenor"
-				},
-				{ "reed": "La Voz Medium or Hard", "voice": "Alto" }
-			],
-			"firstName": "Chico",
-			"lastName": "Freeman"
-		},
+    {
+      "setups": [
+        {
+          "voice": "Baritone",
+          "reed": "Rico 3.5"
+        }
+      ],
+      "firstName": "Ronnie",
+      "lastName": "Cuber"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Stainles Steel Berg Larsen",
+          "saxophone": "Selmer Mark VI"
+        }
+      ],
+      "firstName": "King",
+      "lastName": "Curtis"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link 6",
+          "reed": "Rico 3",
+          "saxophone": "Yamaha",
+          "voice": "Soprano"
+        },
+        {
+          "mouthpiece": "Metal Selmer F",
+          "voice": "Alto",
+          "reed": "Rico 3",
+          "saxophone": "Selmer Balanced Action Alto Saxophone (1957)"
+        }
+      ],
+      "firstName": "Paquito",
+      "lastName": "D'Rivera"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Metal Otto Link 7*",
+          "reed": "Rico",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Eddie",
+      "lastName": "Daniels"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "reed": "Rico Plasticover 3.5"
+        }
+      ],
+      "firstName": "Jay",
+      "lastName": "Davidson"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Four Star",
+          "reed": "Rico",
+          "saxophone": "Selmer Balanced action"
+        }
+      ],
+      "firstName": "Pat",
+      "lastName": "Davis"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link refaced Nicolas Trefeil or Brilhart or Selmer Soloist",
+          "saxophone": "Selmer Mark VI or Selmer Super Balanced Action or King Super 20"
+        }
+      ],
+      "firstName": "François",
+      "lastName": "de Ribeaupierre"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Gregory Hollywood 4A-18M",
+          "voice": "Alto",
+          "reed": "Rico 3 or 3.5",
+          "saxophone": "Selmer"
+        }
+      ],
+      "firstName": "Paul",
+      "lastName": "Desmond"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Tone Master 5",
+          "tipOpening": "1,80 mm - 0,71 \"",
+          "saxophone": "Selmer",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Sam",
+      "lastName": "Donahue"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Selmer Mark VI (1948)",
+          "voice": "Alto",
+          "mouthpiece": "Meyer",
+          "reed": "Rico 2"
+        }
+      ],
+      "firstName": "Lou",
+      "lastName": "Donaldson"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "reed": "La Voz Medium"
+        }
+      ],
+      "firstName": "Candy",
+      "lastName": "Dulfer"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "reed": "Rico Royal 3.5"
+        }
+      ],
+      "firstName": "Hans",
+      "lastName": "Dulfer"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Bobby Dukkof Hollywood BD",
+          "saxophone": "Conn New Wonder Transitionnal",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Allen",
+      "lastName": "Eager"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "LASax 80",
+          "voice": "Tenor",
+          "mouthpiece": "Strathon 7*",
+          "reed": "Rico"
+        }
+      ],
+      "firstName": "Richard",
+      "lastName": "Elliott"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Master Link",
+          "saxophone": "Conn New Wonder",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Herschel",
+      "lastName": "Evans"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Guardala Studio Model",
+          "reed": " Vandoren",
+          "voice": "Tenor",
+          "saxophone": "Selmer"
+        },
+        {
+          "mouthpiece": "Dukoff 9",
+          "reed": " Vandoren",
+          "voice": "Soprano",
+          "saxophone": "Selmer"
+        }
+      ],
+      "firstName": "Bill",
+      "lastName": "Evans"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Tone Edge refaced by Nicolas Trefeil",
+          "tipOpening": "3,02 mm - 119 \"",
+          "reed": "Vandoren 3.5",
+          "saxophone": "Selmer Super Balanced Action or Conn New Wonder Transitional",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Robin",
+      "lastName": "Fincker"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Super Tone Master 10* or Lawton 10*B",
+          "tipOpening": "3,43 mm - 135 \"",
+          "saxophone": "Selmer"
+        },
+        {
+          "mouthpiece": "Yanigasawa 5",
+          "voice": "Soprano"
+        }
+      ],
+      "firstName": "Frank",
+      "lastName": "Foster"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Tone Master refaced by Nicolas Trefeil",
+          "saxophone": "Buescher 400 Conn",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Jean François",
+      "lastName": "Bonnel"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Reso Chamber 4 Trump New York Bud Freeman model",
+          "tipOpening": "1,92 mm - 0,76 \"",
+          "saxophone": "Conn New Wonder transitionnal and 10M"
+        }
+      ],
+      "firstName": "Bud",
+      "lastName": "Freeman"
+    },
+    {
+      "setups": [
+        {
+          "reed": "Rico Royal 3",
+          "voice": "Tenor"
+        },
+        { "reed": "La Voz Medium or Hard", "voice": "Alto" }
+      ],
+      "firstName": "Chico",
+      "lastName": "Freeman"
+    },
 
-		{
-			"setups": [
-				{
-					"voice": "Alto",
-					"saxophone": "Selmer Mark VI #14x,xxx",
-					"mouthpiece": "Selmer Soloist Short Shank E",
-					"reed": "Hemke or Vandoren 3",
-					"ligature": "Vintage Brilhart"
-				}
-			],
-			"firstName": "Kenny",
-			"lastName": "Garrett"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Berg Larsen metal or Otto Link Tone Master 4* or Otto Link 8*",
-					"saxophone": "Conn 10M Selmer Super",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Stan",
-			"lastName": "Getz"
-		},
-		{
-			"setups": [
-				{
-					"voice": "Soprano",
-					"misc": "Cal Opperman"
-				},
-				{
-					"voice": "Tenor",
-					"misc": "Metal Berg Larsen or RIA",
-					"reed": "filed down strength 5"
-				}
-			],
-			"firstName": "Jimmy",
-			"lastName": "Giuffre"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Super Tone Master 10*",
-					"saxophone": "Selmer",
-					"reed": "La Voz Hard"
-				}
-			],
-			"firstName": "Benny",
-			"lastName": "Golson"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Four Star",
-					"saxophone": "Selmer Balanced Action (1936)",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Paul",
-			"lastName": "Gonsalves"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "1960s: Dukoff BD Hollywood 1960's, 1970s: Otto Link Four Star 4 or 5 Otto Link Four Star 6 Hawkins Special (given by Illinois Jacquet)",
-					"tipOpening": ".1,98 mm - 0,78 \"",
-					"saxophone": "Conn 10M (rolled tone holes)",
-					"voice": "Tenor"
-				},
-				{
-					"mouthpiece": "Metal Selmer C*",
-					"reed": "Rico Select or Medium Lavoz",
-					"voice": "Soprano"
-				}
-			],
-			"firstName": "Dexter",
-			"lastName": "Gordon"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Dukoff metal D8",
-					"reed": "Hemke 2.5",
-					"voice": "Soprano",
-					"saxophone": "Selmer Mark VI"
-				},
-				{
-					"mouthpiece": "Beechler hard rubber S5S",
-					"reed": "Hemke 3",
-					"voice": "Alto",
-					"saxophone": "Selmer Mark VI"
-				},
-				{
-					"mouthpiece": "RIA metal 5 or 8",
-					"reed": "Hemke 3",
-					"voice": "Tenor",
-					"saxophone": "Selmer Mark VI"
-				}
-			],
-			"firstName": "Kenny",
-			"lastName": "Gorlick"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Four Star",
-					"saxophone": "Conn New Wonder",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Wardell",
-			"lastName": "Gray"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Metal Otto Link Improved Tone Master",
-					"tipOpening": "150",
-					"voice": "Tenor",
-					"saxophone": "Selmer Super Action 80 Series II or King Super 20",
-					"reed": "LaVoz Medium Soft"
-				}
-			],
-			"firstName": "Johnny",
-			"lastName": "Griffin"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "Dolnet"
-				}
-			],
-			"firstName": "Jimmy",
-			"lastName": "Hamilton"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Super Tone Master Florida 10*",
-					"saxophone": "Selmer",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Scott",
-			"lastName": "Hamilton"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "Selmer Mark VI #78xxx",
-					"mouthpiece": "Vandoren V16 or Berg Larsen metal 105 /1",
-					"reed": "Vandoren or V16 3",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Craig",
-			"lastName": "Handy"
-		},
-		{
-			"setups": [
-				{
-					"reed": "La Voz soprano, Alto and tenor medium hard"
-				}
-			],
-			"firstName": "Everette",
-			"lastName": "Harp"
-		},
-		{
-			"setups": [
-				{
-					"voice": "Alto",
-					"saxophone": "King Super 20"
-				}
-			],
-			"firstName": "Antonio",
-			"lastName": "Hart"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Hard rubber",
-					"saxophone": "Conn",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Coleman",
-			"lastName": "Hawkins"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Super Tone Master Florida 6*",
-					"Voice": "Tenor"
-				}
-			],
-			"firstName": "Tubby",
-			"lastName": "Hayes"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Woodwind Steel Ebonite \"Chester Hazlett\" Model",
-					"tipOpening": "1,63 mm - 0,64 \"",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Chester",
-			"lastName": "Hazlett"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Tone Master or Hard Rubber Ron Coelho 105",
-					"saxophone": "Conn 10 M or Selmer",
-					"voice": "Tenor"
-				},
-				{
-					"mouthpiece": "Selmer D",
-					"reed": "Marca or Vandoren",
-					"voice": "Soprano"
-				}
-			],
-			"firstName": "Jimmy",
-			"lastName": "Heath"
-		},
-		{
-			"setups": [
-				{
-					"voice": "Tenor",
-					"saxophone": "Selmer Mark VI #56,923",
-					"mouthpiece": "Selmer Soloist Short Shank D/E",
-					"reed": "LaVoz Medium Soft"
-				}
-			],
-			"firstName": "Joe",
-			"lastName": "Henderson"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "Yanagisawa"
-				}
-			],
-			"firstName": "Vincent",
-			"lastName": "Herring"
-		},
-		{
-			"setups": [
-				{
-					"voice": "Tenor",
-					"saxophone": "Keilwerth SX90R - Black Nickel Finish",
-					"mouthpiece": "Custom Lawton 12 Star mouthpiece by Geoff Lawton",
-					"reed": "Vandoren V-16 3.5"
-				}
-			],
-			"firstName": "Ron",
-			"lastName": "Holloway"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Metal Selmer D",
-					"voice": "Soprano"
-				}
-			],
-			"firstName": "Jane Ira",
-			"lastName": "Bloom"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Four Star or Otto Link Tone Master 1940",
-					"saxophone": "Conn 30M Connqueror",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Illinois",
-			"lastName": "Jacquet"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Selmer Soloist (Short Shank)",
-					"saxophone": "Selmer Super Balanced Action",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Bobby",
-			"lastName": "Jaspar"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Tone Master 5",
-					"reed": "Rico \"V\" cut",
-					"saxophone": "Conn 10 M",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Jerry",
-			"lastName": "Jerome"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "(gold plated bronze) Berg Larsen 160/0/M",
-					"tipOpening": "4,00 mm - 157 \"",
-					"reed": "Rico Plasticover 1.5",
-					"saxophone": "Selmer Mark VI",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Plas",
-			"lastName": "Johnson"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Selmer USA Merle Johnston \"Original\" Model",
-					"tipOpening": "1,90 mm- 0,75 \"",
-					"saxophone": "Selmer Balanced Action",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Merle",
-			"lastName": "Johnston"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Four Star",
-					"saxophone": "Conn New Wonder Transitional",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Richie",
-			"lastName": "Kamuca"
-		},
-		{
-			"setups": [
-				{
-					"reed": "Hemke 3",
-					"voice": "Soprano"
-				},
-				{
-					"reed": "La Voz Medium",
-					"voice": "Alto"
-				},
-				{
-					"voice": "Tenor",
-					"reed": "La Voz Medium, Hemke 3.5"
-				}
-			],
-			"firstName": "Jeff",
-			"lastName": "Kashiwa"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Berg Larsen metal or custom Otto Link hard rubber with a Larsen tone chamber."
-				}
-			],
-			"firstName": "Roland",
-			"lastName": "Kirk"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Brilhart Hard Rubber",
-					"saxophone": "Selmer Balanced Action",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Al",
-			"lastName": "Klink"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "King Zephyr",
-					"mouthpiece": "Rico Royal Metallite",
-					"reed": "Rico 3"
-				}
-			],
-			"firstName": "Eric",
-			"lastName": "Kloss"
-		},
-		{
-			"setups": [
-				{
-					"misc": "Selmer Alto Saxophone Vandoren A55 Jumbo Java Vandoren"
-				}
-			],
-			"firstName": "Lee",
-			"lastName": "Konitz"
-		},
-		{
-			"setups": [
-				{
-					"voice": "Soprano",
-					"misc": "Conn Curved (vintage -made in 1914) or Yamaha YSS-62 Silverplated Straight",
-					"mouthpiece": "Couf Hard Rubber #8",
-					"reed": "Rico Plasticover 3"
-				},
-				{
-					"voice": "Alto",
-					"saxophone": "Yamaha YAS-62 Silverplated",
-					"mouthpiece": "Beechler Metal #7",
-					"reed": "Rico Plasticover 4"
-				},
-				{
-					"voice": "Tenor",
-					"saxophone": "Selmer Mark VI (1963) or Silver Plated Yamaha YTS-62 ",
-					"mouthpiece": "Berg-Larsen Hard Rubber #90/2",
-					"misc": " Rico Plasticover 3.5"
-				}
-			],
-			"firstName": "Dave",
-			"lastName": "Koz"
-		},
-		{
-			"setups": [
-				{
-					"voice": "Soprano",
-					"saxophone": "Selmer Super Action ",
-					"mouthpiece": "Otto Link #12",
-					"reed": " Marca 1 1/2"
-				}
-			],
-			"firstName": "Steve",
-			"lastName": "Lacy"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Hard Rubber Lelandais Streamline",
-					"saxophone": "Dolnet",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Guy",
-			"lastName": "Lafittte"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Selmer",
-					"voice": "Soprano"
-				},
-				{
-					"mouthpiece": "RIA 7",
-					"voice": "Alto"
-				}
-			],
-			"firstName": "Oliver",
-			"lastName": "Lake"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Metal Berg Larsen",
-					"saxophone": "King Super 20",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Harold",
-			"lastName": "Land"
-		},
-		{
-			"setups": [
-				{
-					"reed": "La Voz Alto, sop and ten (hard) Hemke tenor and sop 5"
-				}
-			],
-			"firstName": "Ronnie",
-			"lastName": "Laws"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "SML Gold Medal"
-				}
-			],
-			"firstName": "Carmen",
-			"lastName": "Legio"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "refaced Otto Link ( Master Link ?)",
-					"saxophone": "Selmer"
-				},
-				{
-					"mouthpiece": "Guardala Bari Plastic Reed",
-					"voice": "Soprano"
-				},
-				{
-					"mouthpiece": "Sugal",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Dave",
-			"lastName": "Liebman"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Reso Chamber refaced by Nicolas Trefeil",
-					"tipOpening": "7*",
-					"ligature": "Silverstein",
-					"saxophone": "Selmer Super Balanced Action long bell 1952"
-				}
-			],
-			"firstName": "Tim",
-			"lastName": "Lin"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Super Tone Master Florida 10",
-					"tipOpening": "3,30 mm - 130 \"",
-					"reed": "Rico",
-					"saxophone": "Conn New Wonder gold plate"
-				}
-			],
-			"firstName": "Charles",
-			"lastName": "Lloyd"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Tone Master",
-					"saxophone": "Conn 30 M Connqueror"
-				}
-			],
-			"firstName": "Don",
-			"lastName": "Lodice"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Tone Masterrefaced by Charlie Paris",
-					"saxophone": "Selmer Mark VI black lacquer"
-				}
-			],
-			"firstName": "Jean",
-			"lastName": "louis"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link 9*",
-					"voice": "Alto"
-				},
-				{
-					"mouthpiece": "Ebony Francois Louis 10*",
-					"voice": "Tenor"
-				},
-				{
-					"misc": "Selmer Balanced Action Tenor Saxophone Francois Louis custom wooden mouthpiece Alexander Superial \"DC\" #3 1/2"
-				}
-			],
-			"firstName": "Joe",
-			"lastName": "Lovano"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Tone Master n° 5",
-					"saxophone": "Selmer Balanced Action Conn New Wonder"
-				}
-			],
-			"firstName": "Hub",
-			"lastName": "Lytle"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Arbex 7*"
-				}
-			],
-			"firstName": "Charles",
-			"lastName": "Mac"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Metal Berg Larsen",
-					"saxophone": "King Super 20"
-				}
-			],
-			"firstName": "Joe",
-			"lastName": "Maini"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Metal Otto Link 8*",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Bob",
-			"lastName": "Malach"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Metal Beechler 8",
-					"reed": " Vandoren 3 reed",
-					"voice": "Soprano"
-				},
-				{
-					"mouthpiece": "Metal Beechler 7",
-					"voice": "Alto"
-				},
-				{
-					"mouthpiece": "Berg Larsen 110/2",
-					"reed": " Vandoren 3 reed",
-					"voice": "Tenor"
-				},
-				{
-					"misc": "Yamaha YSS-62 Soprano Saxophone Gold Bari #7 Vandoren #3"
-				},
-				{
-					"misc": "Selmer Mark VI Alto Saxophone Metal Beechler #7 Vandoren #3"
-				}
-			],
-			"firstName": "Eric",
-			"lastName": "Marienthal"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Brandford Marsalis Guardala"
-				}
-			],
-			"firstName": "Brandford",
-			"lastName": "Marsalis"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "Guardala Black Nickel",
-					"mouthpiece": "Branford Marsalis Guardala",
-					"reed": "Guardala",
-					"voice": "tenor"
-				},
-				{
-					"mouthpiece": "Bari",
-					"voice": "Soprano"
-				}
-			],
-			"firstName": "Branford",
-			"lastName": "Marsalis"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Brilhart Hard Rubber n° 3"
-				}
-			],
-			"firstName": "Warne",
-			"lastName": "Marsh"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Tone Edge Early Babbittn°8",
-					"tipOpening": "2, 79 mm - 110 \""
-				}
-			],
-			"firstName": "Sam",
-			"lastName": "Mayne"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "Selmer Mark VI",
-					"mouthpiece": "Berg Larsen hard rubber",
-					"reed": "Bari",
-					"voice": "Alto"
-				}
-			],
-			"firstName": "Jackie",
-			"lastName": "McLean"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Meyer 5",
-					"voice": "Alto"
-				},
-				{
-					"mouthpiece": "Arbex 7*",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Charles",
-			"lastName": "McPherson"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Four Starn° 6",
-					"tipOpening": "1,98 mm - 0,78 \"",
-					"reed": "Rico \"V \"cut",
-					"saxophone": "Conn"
-				}
-			],
-			"firstName": "Eddie",
-			"lastName": "Miller"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Dukoff LD 7",
-					"reed": "Rico 3 1/2",
-					"saxophone": "Selmer Mark VI serie I # 82xxx"
-				},
-				{
-					"mouthpiece": "Berg Larsen 95/0",
-					"voice": "Alto"
-				},
-				{
-					"mouthpiece": "Dukoff LD 7",
-					"voice": "Tenor"
-				},
-				{
-					"misc": "Selmer Mark VI Tenor Saxophone Freddie Gregory 7* Rico #3 1/2 or RKM reed"
-				}
-			],
-			"firstName": "Bob",
-			"lastName": "Mintzer"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Super Tone Master",
-					"saxophone": "King Super 20"
-				}
-			],
-			"firstName": "Hank",
-			"lastName": "Mobley"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Trump New York Toots Mondello Special",
-					"tipOpening": "1,83 mm - 0,72 \""
-				}
-			],
-			"firstName": "Toots",
-			"lastName": "Mondello"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "Keilwerth Black Gold SX90R",
-					"mouthpiece": "Brendan Tibbs or Otto Link 10* metal",
-					"voice": "Tenor",
-					"reed": "Rico 3 reed",
-					"ligature": "Oleg"
-				}
-			],
-			"firstName": "James",
-			"lastName": "Moody"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Brilhart Personaline L6",
-					"tipOpening": "2,10 mm - 0,83 \"",
-					"saxophone": "Conn 10 M # 285111 (1939)"
-				}
-			],
-			"firstName": "Brew",
-			"lastName": "Moore"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "Selmer Super Action 80 Series II",
-					"mouthpiece": "Selmer S80"
-				}
-			],
-			"firstName": "Frank",
-			"lastName": "Morgan"
-		},
-		{
-			"setups": [
-				{
-					"misc": "Selmer Mark VI Tenor Saxophone Freddie Gregory 7* Rico #3 1/2 or RKM reed"
-				}
-			],
-			"firstName": "Lanny",
-			"lastName": "Morgan"
-		},
-		{
-			"setups": [
-				{
-					"misc": "Goldplated Conn #M189k, or silver-plated Conn #226k Baritone Saxophone Gale Hollywood 5M��"
-				}
-			],
-			"firstName": "Gerry",
-			"lastName": "Mulligan"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Master Link \"Vido Musso \"model",
-					"tipOpening inches": "0,73 \"",
-					"reed": "Rico"
-				}
-			],
-			"firstName": "Vido",
-			"lastName": "Musso"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Brilhart Hard rubber 5*",
-					"saxophone": "Selmer Mark VI"
-				}
-			],
-			"firstName": "Tommy",
-			"lastName": "Newsom"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Super Tone master 10*",
-					"tipOpening": "3,43 mm -135 \"",
-					"reed": "Rico n° 3",
-					"saxophone": "Conn 10M"
-				}
-			],
-			"firstName": "Sal",
-			"lastName": "Nistico"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link n° 8"
-				}
-			],
-			"firstName": "Dick",
-			"lastName": "Oats"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Wolf Tane 7",
-					"voice": "Soprano"
-				},
-				{
-					"mouthpiece": "Berg Larsen 90/2",
-					"voice": "Alto"
-				},
-				{
-					"mouthpiece": "Otto Link 8",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Dick",
-			"lastName": "Oatts"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "Yanagisawa (Silver Body brass keys)",
-					"mouthpiece": "Vandoren A45 Classique",
-					"voice": "Alto"
-				}
-			],
-			"firstName": "Greg",
-			"lastName": "Osby"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Brilhart Ebolin",
-					"voice": "Alto"
-				}
-			],
-			"firstName": "Maceo",
-			"lastName": "Parker"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Brilhart 5?",
-					"voice": "Alto"
-				},
-				{
-					"misc": "King Super 20 Alto Saxophone brilhart Ebolin Rico"
-				},
-				{
-					"misc": "Grafton Plastic Alto Saxophone brilhart Ebolin Rico"
-				},
-				{
-					"misc": "Conn 6M Alto Saxophone brilhart Tonalin Rico"
-				}
-			],
-			"firstName": "Charlie",
-			"lastName": "Parker"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Eburnated bar",
-					"saxophone": "Conn 10 M"
-				}
-			],
-			"firstName": "Tony",
-			"lastName": "Pastor"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Four star Otto Link Tone Master",
-					"sxaophone": "Conn New Wonder"
-				}
-			],
-			"firstName": "Bill",
-			"lastName": "Perkins"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Tone Master refaced by Nicolas TrefeilOtto Link Four Star       //     //    //      //Otto Link Ebunated Bar   //     //   //      //",
-					"tipOpening": "2,65 mm - 104 \"2,52 mm - 100 \"2,65 mm - 104 \"",
-					"saxophone": "Martin Comittee"
-				}
-			],
-			"firstName": "Renaud",
-			"lastName": "Perrais"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Selmer Soloist short shank refaced and modifiedchamber 7* tip",
-					"saxophone": "Selmer"
-				}
-			],
-			"firstName": "Rich",
-			"lastName": "Perry"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link",
-					"saxophone": "Selmer gold plated Balanced Action long bell"
-				}
-			],
-			"firstName": "flip",
-			"lastName": "phillips"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Berg Larsen 130 / 0 sms",
-					"reed": "Vandoren"
-				}
-			],
-			"firstName": "Lenny",
-			"lastName": "Pickett"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Selmer Air Flow refaced by Nicolas Trefeil  Selmer Air Flow refaced by Nicolas Trefeil",
-					"tipOpening": "1,95 mm - 077 \" 1,83 mm - 072 \"",
-					"reed": "Vandoren",
-					"saxophone": "Conn 10 M 1947King Super 20"
-				}
-			],
-			"firstName": "Renaud",
-			"lastName": "Pion"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Meyer small chamber",
-					"saxophone": "Conn 6M"
-				}
-			],
-			"firstName": "Bobby",
-			"lastName": "Platter"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Super Tone Master Double ring N°8",
-					"reed": "Rico Jazz Select n° 2H to 3M Filed",
-					"saxophone": "Conn New WonderSelmer Super Balanced Action #34128Selmer Mark VI"
-				}
-			],
-			"firstName": "Chris",
-			"lastName": "Potter"
-		},
-		{
-			"setups": [
-				{
-					"misc": "King Saxello Lamberson wood Vandoren 3"
-				},
-				{
-					"misc": "Selmer Series 3 Soprano Saxophone Lamberson wood 6m 3 1/2 Alexander or Marca"
-				},
-				{
-					"misc": "Selmer Series 3 Soprano Saxophone Lamberson wood 6m 3 1/2 Alexander or Marca"
-				},
-				{
-					"misc": "Selmer gold plated Alto Saxophone Lamberson wood #6 Rico Select Jazz (S) #3"
-				},
-				{
-					"misc": "Keilwerth straight Alto Saxophone Lamberson 6dd wood Vandoren 3"
-				},
-				{
-					"misc": "Selmer Balanced Action Tenor Saxophone Lamberson L7 wood Rico Jazz #3, Rico Jazz Select #3, or Vandoren V16 #3"
-				},
-				{
-					"misc": "Selmer Baritone Saxophone (Low Bb) Lamberson 7dd hard rubber Rico Jazz 3 1/2"
-				}
-			],
-			"firstName": "Tim",
-			"lastName": "Price"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "1940 CustomMeyer Serie In° 8 metal",
-					"tipOpening": "2,54 mm - .100 \"",
-					"saxophone": "Conn, Buescher, Selmer"
-				}
-			],
-			"firstName": "Ike",
-			"lastName": "Quebec"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Brilhart Tonalin",
-					"saxophone": "Conn 10M"
-				}
-			],
-			"firstName": "Paul",
-			"lastName": "Quinichette"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Dukoff Silverite D9",
-					"reed": "La Voz Medium",
-					"saxophone": "Selmer Mark VI"
-				}
-			],
-			"firstName": "Boots",
-			"lastName": "Randolph"
-		},
-		{
-			"setups": [
-				{
-					"misc": "Yamaha YSS-62 Soprano Saxophone Couf 8* Vandoren #2 1/2"
-				},
-				{
-					"misc": "Yamaha YAS-62 Alto Saxophone ARB 6* Vandoren Java #2 1/2"
-				}
-			],
-			"firstName": "Nelson",
-			"lastName": "Rangell"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": " Relacquered Selmer Super Balanced Action #48,xxx",
-					"mouthpiece": "Otto Link metal 8* or 9* or Florida Super Power Chamber 7*, or Florida Otto Link 7* Hard Rubber",
-					"reed": "Java",
-					"voice": "Tenor"
-				},
-				{
-					"voice": "Soprano",
-					"saxophone": "Selmer Mark VI",
-					"mouthpiece": "Selmer Soloist Hard Rubber G",
-					"reed": "Vandoren"
-				}
-			],
-			"firstName": "Joshua",
-			"lastName": "Redman"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Brilhart England mpc"
-				}
-			],
-			"firstName": "Don",
-			"lastName": "rendell"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Master Link",
-					"reed": "Vibrator Chiron",
-					"saxophone": "Selmer Balanced Action"
-				}
-			],
-			"firstName": "Jerome",
-			"lastName": "Richardson"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Berg Larsen stainless steel",
-					"tipOpening": "85"
-				}
-			],
-			"firstName": "Boomie",
-			"lastName": "Richman"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Four Star",
-					"tipOpening": "1,98 mm - 0,78\"",
-					"reed": "Rico",
-					"saxophone": "Conn New Wonder"
-				}
-			],
-			"firstName": "Arthur",
-			"lastName": "Rollini"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "14x,xxx Selmer Mark VI",
-					"mouthpiece": "Wolfe Tayne or Guy Hawkins metal mp",
-					"reed": "LaVoz"
-				},
-				{
-					"reed": "La Voz Tenor med. and Hemke ten. 2"
-				},
-				{
-					"mouthpiece": "Berg Larsen hard rubber Otto Lik Super Tone master double ring NY",
-					"saxophone": "Conn New wonder  transitionnalSelmer Mark VI Serie I"
-				},
-				{
-					"mouthpiece": "Berg Larsen or Wolf Tayne",
-					"voice": "Tenor"
-				},
-				{
-					"misc": "Selmer Mark VI (130K) Tenor Saxophone Berg Larsen 130/2 LaVoz Medium"
-				}
-			],
-			"firstName": "Sonny",
-			"lastName": "Rollins"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Improved Tone Master",
-					"saxophone": "Selmer Balanced Action short bell"
-				}
-			],
-			"firstName": "Charlie",
-			"lastName": "Rouse"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Hard rubber",
-					"saxophone": "Conn"
-				}
-			],
-			"firstName": "Babe",
-			"lastName": "Russin"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Dukoff D9"
-				}
-			],
-			"firstName": "Marc",
-			"lastName": "Russo"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "Selmer Mark VI",
-					"mouthpiece": "David Sanborn or Bobby Dukoff D7/D8/D9 Super Power Chamber",
-					"reed": "LaVoz Medium",
-					"voice": "Alto"
-				}
-			],
-			"firstName": "David",
-			"lastName": "Sanborn"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "Selmer Mark VI",
-					"mouthpiece": "Otto Link metal 7",
-					"reed": "Vandoren",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "David",
-			"lastName": "Sanchez"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Reso Chamber refaced by Nicolas Trefeil",
-					"tipOpening": "2 ,61 mm - 103 \"",
-					"reed": "3 1/2",
-					"saxophone": "Selmer"
-				}
-			],
-			"firstName": "Adrien",
-			"lastName": "sanchez"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Metal Selmer",
-					"voice": "Soprano"
-				},
-				{
-					"mouthpiece": "Metal Selmer",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Pharoh",
-			"lastName": "Sanders"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link super Tone Master 7* refaced by Nicolas Trefeil",
-					"saxophone": "Selmer"
-				}
-			],
-			"firstName": "Carl",
-			"lastName": "schlosser"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link metal 5 *",
-					"tipOpening": "2,16 mm - 0,85 \""
-				}
-			],
-			"firstName": "Ronnie",
-			"lastName": "Scott"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "Guardala BN",
-					"mouthpiece": "Guardala or Strathon 8 or 9",
-					"reed": "Guardala",
-					"voice": "Alto"
-				}
-			],
-			"firstName": "Tom",
-			"lastName": "Scott"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "Buescher 400"
-				}
-			],
-			"firstName": "Al",
-			"lastName": "Sears"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Super Tone Master Florida usa n° 9*",
-					"reed": "Vandoren",
-					"saxophone": "Selmer Mark VI"
-				}
-			],
-			"firstName": "Marti",
-			"lastName": "Serra"
-		},
-		{
-			"setups": [
-				{
-					"reed": "Rico Alto 2"
-				}
-			],
-			"firstName": "Bud",
-			"lastName": "Shank"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Bari",
-					"voice": "Soprano"
-				}
-			],
-			"firstName": "Andy",
-			"lastName": "Shepard"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Super Tone Master double ring N° 7",
-					"saxophone": "Selmer"
-				},
-				{
-					"mouthpiece": "Hard Rubber Otto Link 10",
-					"voice": "Soprano"
-				},
-				{
-					"mouthpiece": "Hard Rubber Otto Link 10",
-					"voice": "Tenor"
-				}
-			],
-			"firstName": "Wayne",
-			"lastName": "Shorter"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Brilhart Hard Rubber n° 4",
-					"tipOpening": "0,84 \"",
-					"saxophone": "Selmer radio improved"
-				}
-			],
-			"firstName": "Zoot",
-			"lastName": "Sims"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "Keilwerth BG SX90R"
-				}
-			],
-			"firstName": "Mike",
-			"lastName": "Smith"
-		},
-		{
-			"setups": [
-				{
-					"misc": "Selmer Mark VI tenor, 86,000 Phil Barone Hollywood Custom mouthpiece, Solid Silver, #8 Rico Jazz 2.5, or LaVoz Medium"
-				}
-			],
-			"firstName": "Eric",
-			"lastName": "Spaulding"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Berg Larsen hard rubber",
-					"reed": "Very soft reed",
-					"saxophone": "Buescher Aristocrat"
-				}
-			],
-			"firstName": "Vernon",
-			"lastName": "Story"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "Buescher"
-				}
-			],
-			"firstName": "Charles",
-			"lastName": "Strickfaden"
-		},
-		{
-			"setups": [
-				{
-					"misc": "Pearl Flute������"
-				},
-				{
-					"misc": "Selmer Model H Soprano Saxophone Selmer 3 1/2 Queen reed"
-				},
-				{
-					"misc": "Selmer Mark VI Tenor Saxophone Phil Barone Custom mouthpiece 2 1/2 Vandoren"
-				},
-				{
-					"misc": "Selmer Omega Bb Clarinet Vandoren Jazz����"
-				}
-			],
-			"firstName": "John",
-			"lastName": "Stubblefield"
-		},
-		{
-			"setups": [
-				{
-					"reed": "Hemke tenor 4"
-				}
-			],
-			"firstName": "Lew",
-			"lastName": "Tabackin"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Tone Master N° 5 *",
-					"reed": "Otto Link Vibracane n° 2",
-					"saxophone": "Conn 10M"
-				}
-			],
-			"firstName": "Buddy",
-			"lastName": "Tate"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Super Tone Master WT facing Otto Link Tone Edge WT facing",
-					"tipOpening": "2,16 mm - 0,85 \""
-				}
-			],
-			"firstName": "Wolf",
-			"lastName": "Tayne"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Four Star",
-					"saxophone": "Conn"
-				}
-			],
-			"firstName": "Joe",
-			"lastName": "Thomas"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Master Link",
-					"saxophone": "Selmer Balanced Action short bell"
-				}
-			],
-			"firstName": "Lucky",
-			"lastName": "Thompson"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Super Tone Master FloridaRefaced by Nicolas Trefeil",
-					"tipOpening": "2,68 mm - 105 \"",
-					"saxophone": "Selmer Super Balanced action"
-				}
-			],
-			"firstName": "Georges",
-			"lastName": "Torsiello"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "Keilwerth BG",
-					"mouthpiece": "Otto Link metal",
-					"reed": "La Voz"
-				},
-				{
-					"voice": "Tenor",
-					"saxophone": "Black Lacquered Selmer Super Action 80",
-					"mouthpiece": "Tone Master New York Otto Link #8",
-					"reed": "Hemke #3 or #3 1/2"
-				}
-			],
-			"firstName": "Stanley",
-			"lastName": "Turrentine"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link n° 8"
-				}
-			],
-			"firstName": "Chris",
-			"lastName": "Vadala"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Dukoff Hollywood Charlie Ventura specialmodel (CV)",
-					"tipOpening": "2,30 mm - 0,90 \"",
-					"saxophone": "Selmer Balanced Action short bell- tea kettle neck"
-				}
-			],
-			"firstName": "Charlie",
-			"lastName": "Ventura"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Selmer Soloist ShortShank refaced by Nicolas Trefeil",
-					"reed": "Vandoren 3 1/2",
-					"saxophone": "Mark VI serie II"
-				}
-			],
-			"firstName": "Fabien",
-			"lastName": "Vergez"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Super Tone Master Florida usa 9*",
-					"tipOpening": "3,23 mm - 127 \"",
-					"saxophone": "Selmer"
-				}
-			],
-			"firstName": "Andre",
-			"lastName": "Villéger"
-		},
-		{
-			"setups": [
-				{
-					"misc": "Relaquered 200K Selmer MarkVI Tenor Super Tone Master Florida Otto Link 7*��"
-				}
-			],
-			"firstName": "Tim",
-			"lastName": "Warfield"
-		},
-		{
-			"setups": [
-				{
-					"misc": "H. Couf Black Nickel Soprano Saxophone Runyon #8 hard rubber Rico Royal #5 reed"
-				},
-				{
-					"misc": "Keilwerth Black Nickel SX90R Alto Saxophone Meyer 7M NewYork USA hard rubber Rico Royal #5 reed"
-				},
-				{
-					"misc": "Couf Gold Plated Tenor Saxophone Berg Larsen 130/0 Hard Rubber Rico Royal #5 reed"
-				}
-			],
-			"firstName": "Grover",
-			"lastName": "Washington"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Meyer 5",
-					"voice": "Alto"
-				}
-			],
-			"firstName": "Sadao",
-			"lastName": "Watanabe"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "Yamaha Custom",
-					"mouthpiece": "Vandoren V5 or A35",
-					"reed": "Vandoren",
-					"Voice": "Alto"
-				}
-			],
-			"firstName": "Bobby",
-			"lastName": "Watson"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "Keilwerth BG SX90R",
-					"mouthpiece": "Florida Otto Link metal 10* (modified by Phil Barone) .160 opening",
-					"reed": "Soft Fibracane or Bari"
-				},
-				{
-					"mouthpiece": "Runyon 9",
-					"voice": "Soprano"
-				},
-				{
-					"mouthpiece": "Lawton 9*",
-					"voice": "Alto"
-				}
-			],
-			"firstName": "Ernie",
-			"lastName": "Watts"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link four star n°5",
-					"saxophone": "Conn New Wonder"
-				},
-				{
-					"mouthpiece": "Metal Otto Link",
-					"reed": " Rico 3 1/2 reed",
-					"voice": "Tenor"
-				},
-				{
-					"misc": "Selmer Balanced Action Tenor Saxophone Master Link, New York Otto Link��"
-				}
-			],
-			"firstName": "Ben",
-			"lastName": "Webster"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link reso Chamber refaced by Nicolas Trefeil",
-					"tipOpening": "7* - 105 \"",
-					"reed": "Rico Jazz Select n° 3 M Filed  Rigotti gold jazz 3 light",
-					"saxophone": "1952 Selmer Super Balanced Action long bell"
-				}
-			],
-			"firstName": "Ben",
-			"lastName": "Wendel"
-		},
-		{
-			"setups": [
-				{
-					"saxophone": "Guardala Brecker"
-				},
-				{
-					"mouthpiece": "Dukoff 8*",
-					"voice": "Soprano"
-				},
-				{
-					"mouthpiece": "Guardala - Brecker",
-					"voice": "Tenor"
-				},
-				{
-					"misc": "Yamaha YSS-875 Soprano Saxophone Guardala Silver Mike Brecker model Guardala #4"
-				},
-				{
-					"misc": "Keilwerth Black Nickel SX90R Tenor Saxophone Guardala Silver Mike Brecker model Guardala #4"
-				}
-			],
-			"firstName": "Kirk",
-			"lastName": "Whalum"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Berg Larsen metal",
-					"saxophone": "Dolnet"
-				}
-			],
-			"firstName": "Barney",
-			"lastName": "Wilen"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Four Star",
-					"saxophone": "Conn New Wonder"
-				}
-			],
-			"firstName": "Elmer",
-			"lastName": "Williams"
-		},
-		{
-			"setups": [
-				{
-					"voice": "Soprano",
-					"saxophone": "Selmer Mark VI",
-					"mouthpiece": "Selmer D",
-					"ligature": "Winslow",
-					"reed": "Vandoren number 4 reed"
-				}
-			],
-			"firstName": "Paul",
-			"lastName": "Winter"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Meyer 5",
-					"reed": " La Voz medium reed",
-					"voice": "Alto"
-				},
-				{
-					"misc": "Selmer Mark VI Alto Saxophone (82,000) Old New York Meyer 5 Vandoren V16"
-				},
-				{
-					"misc": "Selmer Mark VI Alto Sax Meyer New York USA 5 Hard Rubber����"
-				}
-			],
-			"firstName": "Phil",
-			"lastName": "Woods"
-		},
-		{
-			"setups": [
-				{
-					"mouthpiece": "Otto Link Four Star n°5 allegedly handcrafted by L.Young himself",
-					"reed": "Rico 2 1/2Chiron Vibrator n° 3 also: baritone reed",
-					"saxophone": "Conn New Wonder serie1 gold plate#144444 and other Conn tenorsaxophones"
-				}
-			],
-			"firstName": "Lester",
-			"lastName": "Young"
-		}
-	]
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "saxophone": "Selmer Mark VI #14x,xxx",
+          "mouthpiece": "Selmer Soloist Short Shank E",
+          "reed": "Hemke or Vandoren 3",
+          "ligature": "Vintage Brilhart"
+        }
+      ],
+      "firstName": "Kenny",
+      "lastName": "Garrett"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Berg Larsen metal or Otto Link Tone Master 4* or Otto Link 8*",
+          "saxophone": "Conn 10M Selmer Super",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Stan",
+      "lastName": "Getz"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "misc": "Cal Opperman"
+        },
+        {
+          "voice": "Tenor",
+          "misc": "Metal Berg Larsen or RIA",
+          "reed": "filed down strength 5"
+        }
+      ],
+      "firstName": "Jimmy",
+      "lastName": "Giuffre"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Super Tone Master 10*",
+          "saxophone": "Selmer",
+          "reed": "La Voz Hard"
+        }
+      ],
+      "firstName": "Benny",
+      "lastName": "Golson"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Four Star",
+          "saxophone": "Selmer Balanced Action (1936)",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Paul",
+      "lastName": "Gonsalves"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "1960s: Dukoff BD Hollywood 1960's, 1970s: Otto Link Four Star 4 or 5 Otto Link Four Star 6 Hawkins Special (given by Illinois Jacquet)",
+          "tipOpening": ".1,98 mm - 0,78 \"",
+          "saxophone": "Conn 10M (rolled tone holes)",
+          "voice": "Tenor"
+        },
+        {
+          "mouthpiece": "Metal Selmer C*",
+          "reed": "Rico Select or Medium Lavoz",
+          "voice": "Soprano"
+        }
+      ],
+      "firstName": "Dexter",
+      "lastName": "Gordon"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Dukoff metal D8",
+          "reed": "Hemke 2.5",
+          "voice": "Soprano",
+          "saxophone": "Selmer Mark VI"
+        },
+        {
+          "mouthpiece": "Beechler hard rubber S5S",
+          "reed": "Hemke 3",
+          "voice": "Alto",
+          "saxophone": "Selmer Mark VI"
+        },
+        {
+          "mouthpiece": "RIA metal 5 or 8",
+          "reed": "Hemke 3",
+          "voice": "Tenor",
+          "saxophone": "Selmer Mark VI"
+        }
+      ],
+      "firstName": "Kenny",
+      "lastName": "Gorlick"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Four Star",
+          "saxophone": "Conn New Wonder",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Wardell",
+      "lastName": "Gray"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Metal Otto Link Improved Tone Master",
+          "tipOpening": "150",
+          "voice": "Tenor",
+          "saxophone": "Selmer Super Action 80 Series II or King Super 20",
+          "reed": "LaVoz Medium Soft"
+        }
+      ],
+      "firstName": "Johnny",
+      "lastName": "Griffin"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Dolnet"
+        }
+      ],
+      "firstName": "Jimmy",
+      "lastName": "Hamilton"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Super Tone Master Florida 10*",
+          "saxophone": "Selmer",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Scott",
+      "lastName": "Hamilton"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Selmer Mark VI #78xxx",
+          "mouthpiece": "Vandoren V16 or Berg Larsen metal 105 /1",
+          "reed": "Vandoren or V16 3",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Craig",
+      "lastName": "Handy"
+    },
+    {
+      "setups": [
+        {
+          "reed": "La Voz soprano, Alto and tenor medium hard"
+        }
+      ],
+      "firstName": "Everette",
+      "lastName": "Harp"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Alto",
+          "saxophone": "King Super 20"
+        }
+      ],
+      "firstName": "Antonio",
+      "lastName": "Hart"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Hard rubber",
+          "saxophone": "Conn",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Coleman",
+      "lastName": "Hawkins"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Super Tone Master Florida 6*",
+          "Voice": "Tenor"
+        }
+      ],
+      "firstName": "Tubby",
+      "lastName": "Hayes"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Woodwind Steel Ebonite \"Chester Hazlett\" Model",
+          "tipOpening": "1,63 mm - 0,64 \"",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Chester",
+      "lastName": "Hazlett"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Tone Master or Hard Rubber Ron Coelho 105",
+          "saxophone": "Conn 10 M or Selmer",
+          "voice": "Tenor"
+        },
+        {
+          "mouthpiece": "Selmer D",
+          "reed": "Marca or Vandoren",
+          "voice": "Soprano"
+        }
+      ],
+      "firstName": "Jimmy",
+      "lastName": "Heath"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "saxophone": "Selmer Mark VI #56,923",
+          "mouthpiece": "Selmer Soloist Short Shank D/E",
+          "reed": "LaVoz Medium Soft"
+        }
+      ],
+      "firstName": "Joe",
+      "lastName": "Henderson"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Yanagisawa"
+        }
+      ],
+      "firstName": "Vincent",
+      "lastName": "Herring"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "saxophone": "Keilwerth SX90R - Black Nickel Finish",
+          "mouthpiece": "Custom Lawton 12 Star mouthpiece by Geoff Lawton",
+          "reed": "Vandoren V-16 3.5"
+        }
+      ],
+      "firstName": "Ron",
+      "lastName": "Holloway"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Metal Selmer D",
+          "voice": "Soprano"
+        }
+      ],
+      "firstName": "Jane Ira",
+      "lastName": "Bloom"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Four Star or Otto Link Tone Master 1940",
+          "saxophone": "Conn 30M Connqueror",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Illinois",
+      "lastName": "Jacquet"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Selmer Soloist (Short Shank)",
+          "saxophone": "Selmer Super Balanced Action",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Bobby",
+      "lastName": "Jaspar"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Tone Master 5",
+          "reed": "Rico \"V\" cut",
+          "saxophone": "Conn 10 M",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Jerry",
+      "lastName": "Jerome"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "(gold plated bronze) Berg Larsen 160/0/M",
+          "tipOpening": "4,00 mm - 157 \"",
+          "reed": "Rico Plasticover 1.5",
+          "saxophone": "Selmer Mark VI",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Plas",
+      "lastName": "Johnson"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Selmer USA Merle Johnston \"Original\" Model",
+          "tipOpening": "1,90 mm- 0,75 \"",
+          "saxophone": "Selmer Balanced Action",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Merle",
+      "lastName": "Johnston"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Four Star",
+          "saxophone": "Conn New Wonder Transitional",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Richie",
+      "lastName": "Kamuca"
+    },
+    {
+      "setups": [
+        {
+          "reed": "Hemke 3",
+          "voice": "Soprano"
+        },
+        {
+          "reed": "La Voz Medium",
+          "voice": "Alto"
+        },
+        {
+          "voice": "Tenor",
+          "reed": "La Voz Medium, Hemke 3.5"
+        }
+      ],
+      "firstName": "Jeff",
+      "lastName": "Kashiwa"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Berg Larsen metal or custom Otto Link hard rubber with a Larsen tone chamber."
+        }
+      ],
+      "firstName": "Roland",
+      "lastName": "Kirk"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Brilhart Hard Rubber",
+          "saxophone": "Selmer Balanced Action",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Al",
+      "lastName": "Klink"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "King Zephyr",
+          "mouthpiece": "Rico Royal Metallite",
+          "reed": "Rico 3"
+        }
+      ],
+      "firstName": "Eric",
+      "lastName": "Kloss"
+    },
+    {
+      "setups": [
+        {
+          "misc": "Selmer Alto Saxophone Vandoren A55 Jumbo Java Vandoren"
+        }
+      ],
+      "firstName": "Lee",
+      "lastName": "Konitz"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "misc": "Conn Curved (vintage -made in 1914) or Yamaha YSS-62 Silverplated Straight",
+          "mouthpiece": "Couf Hard Rubber #8",
+          "reed": "Rico Plasticover 3"
+        },
+        {
+          "voice": "Alto",
+          "saxophone": "Yamaha YAS-62 Silverplated",
+          "mouthpiece": "Beechler Metal #7",
+          "reed": "Rico Plasticover 4"
+        },
+        {
+          "voice": "Tenor",
+          "saxophone": "Selmer Mark VI (1963) or Silver Plated Yamaha YTS-62 ",
+          "mouthpiece": "Berg-Larsen Hard Rubber #90/2",
+          "misc": " Rico Plasticover 3.5"
+        }
+      ],
+      "firstName": "Dave",
+      "lastName": "Koz"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "saxophone": "Selmer Super Action ",
+          "mouthpiece": "Otto Link #12",
+          "reed": " Marca 1 1/2"
+        }
+      ],
+      "firstName": "Steve",
+      "lastName": "Lacy"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Hard Rubber Lelandais Streamline",
+          "saxophone": "Dolnet",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Guy",
+      "lastName": "Lafittte"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Selmer",
+          "voice": "Soprano"
+        },
+        {
+          "mouthpiece": "RIA 7",
+          "voice": "Alto"
+        }
+      ],
+      "firstName": "Oliver",
+      "lastName": "Lake"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Metal Berg Larsen",
+          "saxophone": "King Super 20",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Harold",
+      "lastName": "Land"
+    },
+    {
+      "setups": [
+        {
+          "reed": "La Voz Hard or Hemke 5",
+          "voice": "Soprano"
+        },
+        {
+          "reed": "La Voz Hard",
+          "voice": "Alto"
+        },
+        {
+          "reed": "La Voz Hard or Hemke 5",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Ronnie",
+      "lastName": "Laws"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "SML Gold Medal",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Carmen",
+      "lastName": "Leggio"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Refaced Otto Link Master Link or Sugal",
+          "saxophone": "Selmer",
+          "Voice": "Tenor"
+        },
+        {
+          "mouthpiece": "Guardala",
+          "voice": "Soprano",
+          "reed": "Bari Plastic Reed"
+        }
+      ],
+      "firstName": "Dave",
+      "lastName": "Liebman"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Reso Chamber refaced by Nicolas Trefeil",
+          "tipOpening": "7*",
+          "ligature": "Silverstein",
+          "saxophone": "Selmer Super Balanced Action 1952 (long bell)",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Tim",
+      "lastName": "Lin"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Super Tone Master Florida 10",
+          "tipOpening": "3,30 mm - 130 \"",
+          "reed": "Rico",
+          "saxophone": "Gold Plated Conn New Wonder",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Charles",
+      "lastName": "Lloyd"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Tone Master",
+          "saxophone": "Conn 30 M Connqueror",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Don",
+      "lastName": "Lodice"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Tone Master refaced by Charlie Paris",
+          "saxophone": "Selmer Mark VI black lacquer"
+        }
+      ],
+      "firstName": "Jean Louis",
+      "lastName": "Chautemps"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link 9*",
+          "voice": "Alto"
+        },
+        {
+          "mouthpiece": "Ebony Francois Louis 10*",
+          "voice": "Tenor",
+          "reed": "Alexander Superial \"DC\" #3 1/2",
+          "saxophone": "Selmer Balanced Action"
+        }
+      ],
+      "firstName": "Joe",
+      "lastName": "Lovano"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Tone Master 5",
+          "saxophone": "Selmer Balanced Action or Conn New Wonder",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Hub",
+      "lastName": "Lytle"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Metal Berg Larsen",
+          "saxophone": "King Super 20"
+        }
+      ],
+      "firstName": "Joe",
+      "lastName": "Maini",
+      "genres": ["Swing", "Jazz"]
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Metal Otto Link 8*",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Bob",
+      "lastName": "Malach"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Metal Beechler 8 or Gold Bari #7",
+          "reed": "Vandoren 3",
+          "voice": "Soprano",
+          "saxophone": "Yamaha YSS-62"
+        },
+        {
+          "mouthpiece": "Metal Beechler 7",
+          "voice": "Alto",
+          "saxophone": "Selmer Mark VI"
+        },
+        {
+          "mouthpiece": "Berg Larsen 110/2",
+          "reed": " Vandoren 3",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Eric",
+      "lastName": "Marienthal"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Guardala Black Nickel",
+          "mouthpiece": "Branford Marsalis Guardala",
+          "reed": "Guardala",
+          "voice": "Tenor"
+        },
+        {
+          "mouthpiece": "Bari",
+          "voice": "Soprano"
+        }
+      ],
+      "firstName": "Branford",
+      "lastName": "Marsalis"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Brilhart Hard Rubber 3",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Warne",
+      "lastName": "Marsh"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Tone Edge Early Babbitt 8",
+          "tipOpening": "2, 79 mm - 110 \"",
+          "voice": "Alto"
+        }
+      ],
+      "firstName": "Sam",
+      "lastName": "Mayne"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Selmer Mark VI",
+          "mouthpiece": "Berg Larsen hard rubber",
+          "reed": "Bari",
+          "voice": "Alto"
+        }
+      ],
+      "firstName": "Jackie",
+      "lastName": "McLean"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Meyer 5",
+          "voice": "Alto"
+        },
+        {
+          "mouthpiece": "Arbex 7*",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Charles",
+      "lastName": "McPherson"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Four Star 6",
+          "tipOpening": "1,98 mm - 0,78 \"",
+          "reed": "Rico \"V \"cut",
+          "saxophone": "Conn",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Eddie",
+      "lastName": "Miller"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Dukoff LD 7 or Freddie Gregory 7*",
+          "reed": "Rico 3.5 or RKM",
+          "saxophone": "Selmer Mark VI #82xxx",
+          "voice": "Tenor"
+        },
+        {
+          "mouthpiece": "Berg Larsen 95/0",
+          "voice": "Alto"
+        }
+      ],
+      "firstName": "Bob",
+      "lastName": "Mintzer"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Super Tone Master",
+          "saxophone": "King Super 20",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Hank",
+      "lastName": "Mobley"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Trump New York Toots Mondello Special",
+          "tipOpening": "1,83 mm - 0,72 \"",
+          "voice": "Alto"
+        }
+      ],
+      "firstName": "Toots",
+      "lastName": "Mondello"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Keilwerth Black Gold SX90R",
+          "mouthpiece": "Brendan Tibbs or Otto Link 10* metal",
+          "voice": "Tenor",
+          "reed": "Rico 3",
+          "ligature": "Oleg"
+        }
+      ],
+      "firstName": "James",
+      "lastName": "Moody"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Brilhart Personaline L6",
+          "tipOpening": "2,10 mm - 0,83 \"",
+          "saxophone": "Conn 10 M # 285111 (1939)",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Brew",
+      "lastName": "Moore"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Selmer Super Action 80 Series II",
+          "mouthpiece": "Selmer S80",
+          "voice": "Alto"
+        }
+      ],
+      "firstName": "Frank",
+      "lastName": "Morgan"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpiece": "Freddie Gregory 7*",
+          "saxophone": "Selmer Mark VI",
+          "reed": "Rico #3 1/2 or RKM reed"
+        }
+      ],
+      "firstName": "Lanny",
+      "lastName": "Morgan"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Baritone",
+          "saxophone": "Goldplated Conn #M189k or silver-plated Conn #226k",
+          "mouthpiece": "Gale Hollywood 5M"
+        }
+      ],
+      "firstName": "Gerry",
+      "lastName": "Mulligan"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Master Link \"Vido Musso \"model",
+          "tipOpening": "0,73 \"",
+          "reed": "Rico",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Vido",
+      "lastName": "Musso"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Brilhart hard rubber 5*",
+          "saxophone": "Selmer Mark VI"
+        }
+      ],
+      "firstName": "Tommy",
+      "lastName": "Newsom"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Super Tone master 10*",
+          "tipOpening": "3,43 mm -135 \"",
+          "reed": "Rico 3",
+          "saxophone": "Conn 10M",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Sal",
+      "lastName": "Nistico"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Wolf Tane 7",
+          "voice": "Soprano"
+        },
+        {
+          "mouthpiece": "Berg Larsen 90/2",
+          "voice": "Alto"
+        },
+        {
+          "mouthpiece": "Otto Link 8",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Dick",
+      "lastName": "Oatts"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Yanagisawa (silver body, brass keys)",
+          "mouthpiece": "Vandoren A45 Classique",
+          "voice": "Alto"
+        }
+      ],
+      "firstName": "Greg",
+      "lastName": "Osby"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Brilhart Ebolin",
+          "voice": "Alto"
+        }
+      ],
+      "firstName": "Maceo",
+      "lastName": "Parker"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Brilhart Ebolin or Tonalin 5",
+          "voice": "Alto",
+          "reed": "Rico",
+          "saxophone": "King Super 20 or Grafton Plastic or Conn 6M"
+        }
+      ],
+      "firstName": "Charlie",
+      "lastName": "Parker"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Eburnated Bar",
+          "saxophone": "Conn 10 M",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Tony",
+      "lastName": "Pastor"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Four Star or Otto Link Tone Master",
+          "saxophone": "Conn New Wonder",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Bill",
+      "lastName": "Perkins"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Tone Master refaced by Nicolas Trefeil or Otto Link Four Star or Otto Link Eburnated Bar",
+          "tipOpening": "2,65 mm - 104 \"2,52 mm - 100 \"2,65 mm - 104 \"",
+          "saxophone": "Martin Committee"
+        }
+      ],
+      "firstName": "Renaud",
+      "lastName": "Perrais"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Selmer Soloist 7* short shank refaced and modified chamber",
+          "saxophone": "Selmer",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Rich",
+      "lastName": "Perry"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link",
+          "saxophone": "Gold Plated Selmer Balanced Action (long bell)"
+        }
+      ],
+      "firstName": "Flip",
+      "lastName": "Phillips"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Berg Larsen 130 / 0 SMS",
+          "reed": "Vandoren",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Lenny",
+      "lastName": "Pickett"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Selmer Air Flow refaced by Nicolas Trefeil",
+          "tipOpening": "1,95 mm - 077 \" 1,83 mm - 072 \"",
+          "reed": "Vandoren",
+          "saxophone": "Conn 10 M 1947 or King Super 20",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Renaud",
+      "lastName": "Pion"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Meyer Small Chamber",
+          "saxophone": "Conn 6M",
+          "voice": "Alto"
+        }
+      ],
+      "firstName": "Bobby",
+      "lastName": "Platter"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Super Tone Master Double Ring 8",
+          "reed": "Rico Jazz Select 2H to 3M Filed",
+          "saxophone": "Conn New Wonder or Selmer Super Balanced Action #34128 or Selmer Mark VI",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Chris",
+      "lastName": "Potter"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "King",
+          "voice": "Saxello",
+          "mouthpiece": "Lamberson Wood",
+          "reed": "Vandoren 3"
+        },
+        {
+          "saxophone": "Selmer Series III",
+          "voice": "Soprano",
+          "mouthpiece": "Lamberson Wood 6m",
+          "reed": "Alexander or Marca 3.5"
+        },
+        {
+          "saxophone": "Selmer Gold Plated or Keilwerth Straight",
+          "mouthpiece": "Lamberson Wood 6 or 6dd",
+          "reed": "Rico Select Jazz (S) #3 or Vandoren 3",
+          "voice": "Alto"
+        },
+        {
+          "saxophone": "Selmer Balanced Action",
+          "mouthpiece": "Lamberson L7 wood",
+          "voice": "Tenor",
+          "reed": "Rico Jazz #3, Rico Jazz Select #3, or Vandoren V16 #3"
+        },
+        {
+          "voice": "Baritone",
+          "saxophone": "Selmer (Low Bb)",
+          "misc": "hard rubber Lamberson 7dd",
+          "reed": "Rico Jazz 3 1/2"
+        }
+      ],
+      "firstName": "Tim",
+      "lastName": "Price"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "1940 Custom Meyer Series I 8 metal",
+          "tipOpening": "2,54 mm - .100 \"",
+          "saxophone": "Conn, Buescher, Selmer",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Ike",
+      "lastName": "Quebec"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Brilhart Tonalin",
+          "saxophone": "Conn 10M",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Paul",
+      "lastName": "Quinichette"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Dukoff Silverite D9",
+          "reed": "La Voz Medium",
+          "saxophone": "Selmer Mark VI",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Boots",
+      "lastName": "Randolph"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "saxophone": "Yamaha YSS-62",
+          "mouthpiece": "Couf 8*",
+          "reed": "Vandoren 2.5"
+        },
+        {
+          "voice": "Alto",
+          "saxophone": "Yamaha YAS-62",
+          "mouthpiece": "ARB 6*",
+          "reed": "Vandoren Java 2.5"
+        }
+      ],
+      "firstName": "Nelson",
+      "lastName": "Rangell"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": " Relacquered Selmer Super Balanced Action #48,xxx",
+          "mouthpiece": "Otto Link metal 8* or 9* or Florida Super Power Chamber 7*, or Florida Otto Link 7* Hard Rubber",
+          "reed": "Java",
+          "voice": "Tenor"
+        },
+        {
+          "voice": "Soprano",
+          "saxophone": "Selmer Mark VI",
+          "mouthpiece": "Selmer Soloist Hard Rubber G",
+          "reed": "Vandoren"
+        }
+      ],
+      "firstName": "Joshua",
+      "lastName": "Redman"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Brilhart England",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Don",
+      "lastName": "Rendell"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Master Link",
+          "reed": "Vibrator Chiron",
+          "saxophone": "Selmer Balanced Action",
+          "voice": "Alto"
+        }
+      ],
+      "firstName": "Jerome",
+      "lastName": "Richardson"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Berg Larsen Stainless Steel",
+          "tipOpening": "85",
+          "Voice": "Tenor"
+        }
+      ],
+      "firstName": "Boomie",
+      "lastName": "Richman"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Four Star",
+          "tipOpening": "1,98 mm - 0,78\"",
+          "reed": "Rico",
+          "saxophone": "Conn New Wonder",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Arthur",
+      "lastName": "Rollini"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "14x,xxx Selmer Mark VI or Conn New Wonder",
+          "mouthpiece": "Wolfe Tayne or Guy Hawkins metal or Berg Larsen hard rubber Otto Lik or Super Tone master double ring NY",
+          "reed": "La Voz Medium or Hemke 2",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Sonny",
+      "lastName": "Rollins"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Improved Tone Master",
+          "saxophone": "Selmer Balanced Action (short bell)",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Charlie",
+      "lastName": "Rouse"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Hard rubber",
+          "saxophone": "Conn",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Babe",
+      "lastName": "Russin"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Dukoff D9",
+          "voice": "Alto",
+          "saxophone": "Cannonball"
+        }
+      ],
+      "firstName": "Marc",
+      "lastName": "Russo"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Selmer Mark VI",
+          "mouthpiece": "David Sanborn or Bobby Dukoff D7/D8/D9 Super Power Chamber",
+          "reed": "LaVoz Medium",
+          "voice": "Alto"
+        }
+      ],
+      "firstName": "David",
+      "lastName": "Sanborn"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Selmer Mark VI",
+          "mouthpiece": "Otto Link metal 7",
+          "reed": "Vandoren",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "David",
+      "lastName": "Sanchez"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Reso Chamber refaced by Nicolas Trefeil",
+          "tipOpening": "2 ,61 mm - 103 \"",
+          "reed": "3 1/2",
+          "saxophone": "Selmer",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Adrien",
+      "lastName": "Sanchez"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Metal Selmer",
+          "voice": "Soprano"
+        },
+        {
+          "mouthpiece": "Metal Selmer",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Pharoh",
+      "lastName": "Sanders"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link super Tone Master 7* refaced by Nicolas Trefeil",
+          "saxophone": "Selmer",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Carl",
+      "lastName": "Schlosser"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link metal 5 *",
+          "tipOpening": "2,16 mm - 0,85 \"",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Ronnie",
+      "lastName": "Scott"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Guardala BN",
+          "mouthpiece": "Guardala or Strathon 8 or 9",
+          "reed": "Guardala",
+          "voice": "Alto"
+        }
+      ],
+      "firstName": "Tom",
+      "lastName": "Scott"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Buescher 400",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Big Al",
+      "lastName": "Sears"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Super Tone Master Florida USA 9*",
+          "reed": "Vandoren",
+          "saxophone": "Selmer Mark VI",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Marti",
+      "lastName": "Serra"
+    },
+    {
+      "setups": [
+        {
+          "reed": "Rico 2",
+          "voice": "Alto"
+        }
+      ],
+      "firstName": "Bud",
+      "lastName": "Shank"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Bari",
+          "voice": "Soprano"
+        }
+      ],
+      "firstName": "Andy",
+      "lastName": "Sheppard"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Super Tone Master Double Ring 7 or Hard Rubber 10",
+          "saxophone": "Selmer"
+        },
+        {
+          "mouthpiece": "Hard Rubber Otto Link 10",
+          "voice": "Soprano"
+        }
+      ],
+      "firstName": "Wayne",
+      "lastName": "Shorter"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Brilhart Hard Rubber 4",
+          "tipOpening": "0,84 \"",
+          "saxophone": "Selmer Radio Improved",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Zoot",
+      "lastName": "Sims"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Keilwerth BG SX90R",
+          "voice": "Alto"
+        }
+      ],
+      "firstName": "Mike",
+      "lastName": "Smith"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Tenor",
+          "mouthpiece": "Phil Barone Hollywood Custom Solid Silver #8",
+          "saxophone": "Selmer Mark VI #86,xxx",
+          "reed": "Rico Jazz 2.5, or LaVoz Medium"
+        }
+      ],
+      "firstName": "Eric",
+      "lastName": "Spaulding"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Berg Larsen hard rubber",
+          "reed": "Very soft reed",
+          "saxophone": "Buescher Aristocrat",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Vernon",
+      "lastName": "Story"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Buescher",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Charles",
+      "lastName": "Strickfaden"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "mouthpiece": "Selmer",
+          "saxophone": "Selmer Model H",
+          "reed": "3 1/2 Queen"
+        },
+        {
+          "voice": "Tenor",
+          "saxophone": "Selmer Mark VI",
+          "mouthpiece": "Phil Barone Custom",
+          "reed": "2 1/2 Vandoren"
+        }
+      ],
+      "firstName": "John",
+      "lastName": "Stubblefield"
+    },
+    {
+      "setups": [
+        {
+          "reed": "Hemke 4",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Lew",
+      "lastName": "Tabackin"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Tone Master 5*",
+          "reed": "Otto Link Vibracane 2",
+          "saxophone": "Conn 10M",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Buddy",
+      "lastName": "Tate"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Super Tone Master WT facing or Otto Link Tone Edge WT facing",
+          "tipOpening": "2,16 mm - 0,85 \"",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Wolfe",
+      "lastName": "Tayne"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Four Star",
+          "saxophone": "Conn",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Joe",
+      "lastName": "Thomas"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Master Link",
+          "saxophone": "Selmer Balanced Action (short bell)",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Lucky",
+      "lastName": "Thompson"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Super Tone Master Florida Refaced by Nicolas Trefeil",
+          "tipOpening": "2,68 mm - 105 \"",
+          "saxophone": "Selmer Super Balanced Action"
+        }
+      ],
+      "firstName": "Georges",
+      "lastName": "Torsiello"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Keilwerth BG",
+          "mouthpiece": "Otto Link metal",
+          "reed": "La Voz"
+        },
+        {
+          "voice": "Tenor",
+          "saxophone": "Black Lacquered Selmer Super Action 80",
+          "mouthpiece": "Tone Master New York Otto Link #8",
+          "reed": "Hemke #3 or #3 1/2"
+        }
+      ],
+      "firstName": "Stanley",
+      "lastName": "Turrentine"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link 8"
+        }
+      ],
+      "firstName": "Chris",
+      "lastName": "Vadala"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Dukoff Hollywood Charlie Ventura Special model (CV)",
+          "tipOpening": "2,30 mm - 0,90 \"",
+          "saxophone": "Selmer Balanced Action (short bell, tea kettle neck)",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Charlie",
+      "lastName": "Ventura"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Selmer Soloist Short Shank refaced by Nicolas Trefeil",
+          "reed": "Vandoren 3 1/2",
+          "saxophone": "Selmer Mark VI",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Fabien",
+      "lastName": "Vergez"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Super Tone Master Florida USA 9*",
+          "tipOpening": "3,23 mm - 127 \"",
+          "saxophone": "Selmer"
+        }
+      ],
+      "firstName": "Andre",
+      "lastName": "Villéger"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Relaquered Selmer Mark VI #2xx,xxx",
+          "mouthpiece": " Super Tone Master Florida Otto Link 7*",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Tim",
+      "lastName": "Warfield"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "mouthpiece": "Hard rubber Runyon #8",
+          "misc": "H. Couf Black Nickel",
+          "reed": "Rico Royal 5"
+        },
+        {
+          "voice": "Alto",
+          "saxophone": "Keilwerth Black Nickel SX90R",
+          "mouthpiece": "Meyer 7M New York USA hard rubber",
+          "reed": "Rico Royal 5"
+        },
+        {
+          "voice": "Tenor",
+          "saxophone": "Gold Plated Couf",
+          "mouthpiece": "Hard Rubber Berg Larsen 130/0",
+          "reed": "Rico Royal 5"
+        }
+      ],
+      "firstName": "Grover",
+      "lastName": "Washington"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Meyer 5",
+          "voice": "Alto"
+        }
+      ],
+      "firstName": "Sadao",
+      "lastName": "Watanabe"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Yamaha Custom",
+          "mouthpiece": "Vandoren V5 or A35",
+          "reed": "Vandoren",
+          "Voice": "Alto"
+        }
+      ],
+      "firstName": "Bobby",
+      "lastName": "Watson"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Keilwerth BG SX90R",
+          "mouthpiece": "Florida Otto Link metal 10* (modified by Phil Barone) .160 opening",
+          "reed": "Soft Fibracane or Bari",
+          "voice": "Tenor"
+        },
+        {
+          "mouthpiece": "Runyon 9",
+          "voice": "Soprano"
+        },
+        {
+          "mouthpiece": "Lawton 9*",
+          "voice": "Alto"
+        }
+      ],
+      "firstName": "Ernie",
+      "lastName": "Watts"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Four Star 5 or Master Link",
+          "saxophone": "Conn New Wonder or Selmer Balanced Action",
+          "reed": " Rico 3 1/2 reed",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Ben",
+      "lastName": "Webster"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Reso Chamber refaced by Nicolas Trefeil",
+          "tipOpening": "7* - 105 \"",
+          "reed": "Rico Jazz Select 3 M Filed or Rigotti Gold Jazz 3 Light",
+          "saxophone": "1952 Selmer Super Balanced Action (long bell)",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Ben",
+      "lastName": "Wendel"
+    },
+    {
+      "setups": [
+        {
+          "saxophone": "Keilwerth Black Nickel SX90R",
+          "mouthpiece": "Guardala Silver Michael Brecker Model",
+          "reed": "Guardala #4",
+          "voice": "Tenor"
+        },
+        {
+          "mouthpiece": "Dukoff 8*",
+          "voice": "Soprano",
+          "saxophone": "Yamaha YSS-875"
+        }
+      ],
+      "firstName": "Kirk",
+      "lastName": "Whalum"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Berg Larsen metal",
+          "saxophone": "Dolnet",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Barney",
+      "lastName": "Wilen"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Four Star",
+          "saxophone": "Conn New Wonder",
+          "voice": "Tenor"
+        }
+      ],
+      "firstName": "Elmer",
+      "lastName": "Williams"
+    },
+    {
+      "setups": [
+        {
+          "voice": "Soprano",
+          "saxophone": "Selmer Mark VI",
+          "mouthpiece": "Selmer D",
+          "ligature": "Winslow",
+          "reed": "Vandoren 4"
+        }
+      ],
+      "firstName": "Paul",
+      "lastName": "Winter"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "New York Meyer 5",
+          "reed": "La Voz Medium or V16",
+          "voice": "Alto",
+          "saxophone": "Selmer Mark VI #82,xxx"
+        }
+      ],
+      "firstName": "Phil",
+      "lastName": "Woods"
+    },
+    {
+      "setups": [
+        {
+          "mouthpiece": "Otto Link Four Star 5 (custom by Lester Young)",
+          "reed": "Rico 2 1/2 or Chiron Vibrator 3",
+          "saxophone": "Gold Plated Conn New Wonder #144444"
+        }
+      ],
+      "firstName": "Lester",
+      "lastName": "Young"
+    }
+  ]
 }
