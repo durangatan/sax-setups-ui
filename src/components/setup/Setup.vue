@@ -37,9 +37,19 @@ dt {
 dd {
   margin-inline-start: 10px;
 }
+
 .attribute {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+@media only screen and (max-width: 53.125em) {
+  dt,
+  dd {
+    display: block;
+  }
+  .attribute {
+    display: block;
+  }
 }
 </style>

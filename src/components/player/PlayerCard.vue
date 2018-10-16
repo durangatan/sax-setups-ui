@@ -27,10 +27,9 @@ export default {
   margin: 50px 0;
   padding-bottom: 25px;
   box-sizing: border-box;
-  /* border-bottom: 1px solid gray; */
-  /* &:nth-child(odd) {
-    border-right: 1px solid gray;
-  } */
+  @media only screen and (max-width: 53.125em) {
+  width: 100%;
+  }
 }
 h2 {
   padding: 10px 20px;

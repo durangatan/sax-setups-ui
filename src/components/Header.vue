@@ -23,6 +23,9 @@ header {
 
   h1 {
     margin: 0;
+    @media only screen and (max-width: 53.125em) {
+      font-size: 50px;
+    }
   }
 
   div {
