@@ -1,6 +1,6 @@
 <template>
   <footer>
-    contact <span>admin at saxsetups dot com</span> to contribute a setup!
+    Coming soon! contact <span>admin at saxsetups dot com</span> to contribute a setup!
   </footer>
 </template>
 

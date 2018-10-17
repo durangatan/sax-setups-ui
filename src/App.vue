@@ -1,8 +1,6 @@
 <template>
   <div id="app">
     <Header/>
-    <SearchBar v-model="filter" v-on:clear-filter="clearFilter"/>
-    <PlayerCards v-bind:players="filteredAndSortedPlayers" />
     <Footer/>
   </div>
 </template>
@@ -38,7 +36,9 @@ export default {
       this.filter = "";
     },
     filterByName: function(players) {
-      return players.filter(player => `${player.firstName} ${player.lastName}`.toLowerCase().includes(this.filter.toLowerCase()));
+      return players.filter(player =>
+        `${player.firstName} ${player.lastName}`.toLowerCase().includes(this.filter.toLowerCase())
+      );
     },
     applySort: function(players) {
       return players.sort((a, b) => b[this.sortBy] - a[this.sortBy]);
