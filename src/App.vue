@@ -1,20 +1,56 @@
 <template>
   <div id="app">
     <Header/>
+    <SearchBar v-model="filter" v-on:clear-filter="clearFilter"/>
+    <PlayerCards v-bind:players="filteredAndSortedPlayers"/>
     <Footer/>
   </div>
 </template>
 
 <script>
-import { PlayerCards, PlayerCard } from "./components/players";
-import Setup from "./components/setup/Setup.vue";
-import Voice from "./components/setup/Voice.vue";
-import Footer from "./components/Footer.vue";
-import SearchBar from "./components/SearchBar.vue";
-import Header from "./components/Header.vue";
-import json from "../data.json";
+import { PlayerCards, PlayerCard } from './components/players';
+import Setup from './components/setup/Setup.vue';
+import Voice from './components/setup/Voice.vue';
+import Footer from './components/Footer.vue';
+import SearchBar from './components/SearchBar.vue';
+import Header from './components/Header.vue';
+import gql from 'graphql-tag';
+
 export default {
-  name: "app",
+  name: 'app',
+  apollo: {
+    players: gql`
+      query {
+        players {
+          firstName
+          lastName
+          setups {
+            voice
+            mouthpieces {
+              make
+              model
+              material
+              year
+              tipOpening
+            }
+            reeds {
+              make
+              model
+              material
+            }
+            saxophones {
+              make
+              model
+              material
+              finish
+              year
+              serial
+            }
+          }
+        }
+      }
+    `
+  },
   components: {
     PlayerCards,
     PlayerCard,
@@ -26,14 +62,14 @@ export default {
   },
   data: function() {
     return {
-      players: json.players,
-      filter: "",
-      sortBy: "lastName"
+      players: [],
+      filter: '',
+      sortBy: 'lastName'
     };
   },
   methods: {
     clearFilter: function() {
-      this.filter = "";
+      this.filter = '';
     },
     filterByName: function(players) {
       return players.filter(player =>
@@ -58,7 +94,7 @@ export default {
 
 <style lang="scss">
 #app {
-  font-family: "Avenir", Helvetica, Arial, sans-serif;
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;

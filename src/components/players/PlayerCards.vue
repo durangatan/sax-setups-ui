@@ -2,7 +2,7 @@
   <main class="player-cards">
     <PlayerCard 
       v-for="player in players" 
-      v-bind:key="player.name"
+      v-bind:key="player.id"
       v-bind:firstName="player.firstName"
       v-bind:lastName="player.lastName"
       v-bind:setups="player.setups"
@@ -11,9 +11,9 @@
 </template>
 
 <script>
-import PlayerCard from "./PlayerCard.vue";
+import PlayerCard from './PlayerCard.vue';
 export default {
-  name: "PlayerCards",
+  name: 'PlayerCards',
   props: {
     players: Array
   },

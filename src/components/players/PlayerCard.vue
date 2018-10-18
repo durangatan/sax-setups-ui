@@ -28,7 +28,7 @@ export default {
   padding-bottom: 25px;
   box-sizing: border-box;
   @media only screen and (max-width: 53.125em) {
-  width: 100%;
+    width: 100%;
   }
 }
 h2 {

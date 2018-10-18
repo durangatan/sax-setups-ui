@@ -28,7 +28,6 @@ export default {
     width: 80%;
   }
   button {
-    
     padding: 9px;
     background: transparent;
     border: none;
