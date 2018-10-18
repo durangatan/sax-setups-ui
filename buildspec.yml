@@ -1,14 +1,18 @@
 version: 0.2
+env:
+  variables:
+    VUE_APP_GRAPHQL_HTTP: 'https://saxsetups.appspot.com/'
+
 phases:
- install:
-   commands:
-     - npm install
- pre_build:
-   commands:
-     - echo "pre_build step"
- build:
-   commands:
-     - npm run build
- post_build:
-   commands:
-     - aws s3 sync --delete ./dist "s3://www.saxsetups.com"
+  install:
+    commands:
+      - npm install
+  pre_build:
+    commands:
+      - echo "pre_build step"
+  build:
+    commands:
+      - npm run build
+  post_build:
+    commands:
+      - aws s3 sync --delete ./dist "s3://www.saxsetups.com"
