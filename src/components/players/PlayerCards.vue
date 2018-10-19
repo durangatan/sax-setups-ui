@@ -6,6 +6,7 @@
       v-bind:firstName="player.firstName"
       v-bind:lastName="player.lastName"
       v-bind:setups="player.setups"
+      v-bind:images="player.images"
     />
 </main>
 </template>
