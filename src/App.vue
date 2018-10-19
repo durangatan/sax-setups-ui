@@ -11,9 +11,9 @@
 import { PlayerCards, PlayerCard } from './components/players';
 import Setup from './components/setup/Setup.vue';
 import Voice from './components/setup/Voice.vue';
-import Footer from './components/Footer.vue';
-import SearchBar from './components/SearchBar.vue';
-import Header from './components/Header.vue';
+import Footer from './components/page/Footer.vue';
+import SearchBar from './components/page/SearchBar.vue';
+import Header from './components/page/Header.vue';
 import gql from 'graphql-tag';
 
 export default {
@@ -24,6 +24,14 @@ export default {
         players {
           firstName
           lastName
+          images {
+            full {
+              source
+            }
+            thumb {
+              source
+            }
+          }
           setups {
             voice
             mouthpieces {
@@ -93,6 +101,9 @@ export default {
 </script>
 
 <style lang="scss">
+* {
+  box-sizing: border-box;
+}
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -100,5 +111,6 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+  width: 100vw;
 }
 </style>
