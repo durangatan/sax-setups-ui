@@ -1,12 +1,12 @@
 <template>
   <footer>
-    Coming soon! contact <span>admin at saxsetups dot com</span> to contribute a setup!
+    contact <span>admin at saxsetups dot com</span> to contribute a setup!
   </footer>
 </template>
 
 <script>
 export default {
-  name: "Footer"
+  name: 'Footer'
 };
 </script>
 

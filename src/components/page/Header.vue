@@ -1,13 +1,17 @@
 <template>
   <header>
-      <div>🎷</div>
+    <Spinner/>
     <h1>Sax Setups</h1>
   </header>
 </template>
 
 <script>
+import Spinner from '../Spinner.vue';
 export default {
-  name: "Footer"
+  name: 'Header',
+  components: {
+    Spinner
+  }
 };
 </script>
 
