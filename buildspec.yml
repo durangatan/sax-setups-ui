@@ -2,7 +2,6 @@ version: 0.2
 env:
   variables:
     VUE_APP_GRAPHQL_HTTP: 'https://saxsetups.appspot.com/'
-
 phases:
   install:
     commands:
