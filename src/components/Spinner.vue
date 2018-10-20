@@ -1,10 +1,11 @@
 <template>
-    <div v-bind:class="{ spin: $apollo.loading }">🎷</div>
+    <div v-bind:class="{ spin: players.length < 1 }">🎷</div>
 </template>
 
 <script>
 export default {
-  name: 'Spinner'
+  name: 'Spinner',
+  props: { players: Array }
 };
 </script>
 

@@ -8,6 +8,6 @@ Vue.use(VLazyImagePlugin);
 Vue.config.productionTip = false;
 
 new Vue({
-  apolloProvider: createProvider(),
+  apolloProvider: createProvider({}),
   render: h => h(App)
 }).$mount('#app');

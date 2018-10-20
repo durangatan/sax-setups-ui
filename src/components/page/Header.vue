@@ -1,6 +1,6 @@
 <template>
   <header>
-    <Spinner/>
+    <Spinner v-bind:players="players"/>
     <h1>Sax Setups</h1>
   </header>
 </template>
@@ -11,6 +11,9 @@ export default {
   name: 'Header',
   components: {
     Spinner
+  },
+  props: {
+    players: Array
   }
 };
 </script>

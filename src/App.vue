@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <Header/>
+    <Header v-bind:players="filteredAndSortedPlayers"/>
     <SearchBar v-model="filter" v-on:clear-filter="clearFilter"/>
     <PlayerCards v-bind:players="filteredAndSortedPlayers"/>
     <Footer/>
