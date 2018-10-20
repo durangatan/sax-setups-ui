@@ -1,5 +1,5 @@
 <template>
-    <div v-bind:class="{ spin: $apollo.loading > 0 }">🎷</div>
+    <div v-bind:class="{ spin: $apollo.loading }">🎷</div>
 </template>
 
 <script>
@@ -17,9 +17,7 @@ export default {
     transform: rotate(360deg);
   }
 }
-div {
-  .spin {
-    animation: spin 1s infinite;
-  }
+.spin {
+  animation: spin 1s infinite;
 }
 </style>
