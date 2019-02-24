@@ -15,3 +15,6 @@ phases:
   post_build:
     commands:
       - aws s3 sync --delete ./dist "s3://www.saxsetups.com"
+artifacts:
+  files: 
+    - '**/*'
